@@ -1,0 +1,4132 @@
+[
+  {
+    "name": "Bulbasaur",
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "special_attack": 65,
+    "special_defense": 65,
+    "speed": 45,
+    "image": "1aa4ed0d-a1fb-4195-b6f2-5e7d72157174"
+  },
+  {
+    "name": "Ivysaur",
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 60,
+    "image": "bc440326-f4ea-4922-804d-827c0dc7bda3"
+  },
+  {
+    "name": "Charmander",
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "special_attack": 60,
+    "special_defense": 50,
+    "speed": 65,
+    "image": "ea14da84-a279-4259-900e-05c3430d5423"
+  },
+  {
+    "name": "Charmeleon",
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "special_attack": 80,
+    "special_defense": 65,
+    "speed": 80,
+    "image": "4c21335a-64ba-4491-8aeb-c159a92dc2ef"
+  },
+  {
+    "name": "Charizard",
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "special_attack": 109,
+    "special_defense": 85,
+    "speed": 100,
+    "image": "41eeca0f-eed4-475d-9d7a-1e6603c84bc9"
+  },
+  {
+    "name": "Blastoise",
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "special_attack": 85,
+    "special_defense": 105,
+    "speed": 78,
+    "image": "e1a07d8b-785f-4b5a-a022-1163eceb4ef2"
+  },
+  {
+    "name": "Caterpie",
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "special_attack": 20,
+    "special_defense": 20,
+    "speed": 45,
+    "image": "1e1bcc06-c71b-4b89-bc86-a9b0df27ed83"
+  },
+  {
+    "name": "Butterfree",
+    "hp": 60,
+    "attack": 45,
+    "defense": 50,
+    "special_attack": 90,
+    "special_defense": 80,
+    "speed": 70,
+    "image": "d2cdfb44-0410-4e72-ae45-277cef63fb1c"
+  },
+  {
+    "name": "Kakuna",
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "special_attack": 25,
+    "special_defense": 25,
+    "speed": 35,
+    "image": "87e970ab-d139-4428-9c4b-e20ef1720292"
+  },
+  {
+    "name": "Beedrill",
+    "hp": 65,
+    "attack": 90,
+    "defense": 40,
+    "special_attack": 45,
+    "special_defense": 80,
+    "speed": 75,
+    "image": "d10bb01c-99bc-45ee-8b42-1c888beeafbd"
+  },
+  {
+    "name": "Fearow",
+    "hp": 65,
+    "attack": 90,
+    "defense": 65,
+    "special_attack": 61,
+    "special_defense": 61,
+    "speed": 100,
+    "image": "90932e2c-ac57-44bd-843d-1b8492da13bb"
+  },
+  {
+    "name": "Ekans",
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "special_attack": 40,
+    "special_defense": 54,
+    "speed": 55,
+    "image": "c92048e2-21ec-455c-a8e2-50ab82744dc3"
+  },
+  {
+    "name": "Arbok",
+    "hp": 60,
+    "attack": 95,
+    "defense": 69,
+    "special_attack": 65,
+    "special_defense": 79,
+    "speed": 80,
+    "image": "ff54d0ee-0419-4790-96f8-332463371a37"
+  },
+  {
+    "name": "Clefairy",
+    "hp": 70,
+    "attack": 45,
+    "defense": 48,
+    "special_attack": 60,
+    "special_defense": 65,
+    "speed": 35,
+    "image": "cb629613-9e0f-4001-a2a6-7c6bde1d4486"
+  },
+  {
+    "name": "Clefable",
+    "hp": 95,
+    "attack": 70,
+    "defense": 73,
+    "special_attack": 95,
+    "special_defense": 90,
+    "speed": 60,
+    "image": "e6fb2967-be0c-4d66-bdaa-6b5a9738435a"
+  },
+  {
+    "name": "Jigglypuff",
+    "hp": 115,
+    "attack": 45,
+    "defense": 20,
+    "special_attack": 45,
+    "special_defense": 25,
+    "speed": 20,
+    "image": "83a66a15-2590-44c3-bf3d-4aa4f02b5cf4"
+  },
+  {
+    "name": "Golbat",
+    "hp": 75,
+    "attack": 80,
+    "defense": 70,
+    "special_attack": 65,
+    "special_defense": 75,
+    "speed": 90,
+    "image": "b05fe4f7-5b05-4d05-a755-460e1d41734c"
+  },
+  {
+    "name": "Gloom",
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "special_attack": 85,
+    "special_defense": 75,
+    "speed": 40,
+    "image": "4a211208-ba87-4f38-8d94-f35a73ffd993"
+  },
+  {
+    "name": "Diglett",
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "special_attack": 35,
+    "special_defense": 45,
+    "speed": 95,
+    "image": "26a8d0d5-7cc6-4359-bfdb-84952889b290"
+  },
+  {
+    "name": "Dugtrio",
+    "hp": 35,
+    "attack": 100,
+    "defense": 50,
+    "special_attack": 50,
+    "special_defense": 70,
+    "speed": 120,
+    "image": "12cc0563-b0e5-4b1d-bd21-580eb04c2267"
+  },
+  {
+    "name": "Golduck",
+    "hp": 80,
+    "attack": 82,
+    "defense": 78,
+    "special_attack": 95,
+    "special_defense": 80,
+    "speed": 85,
+    "image": "a999b510-db70-4783-9c5d-93e5c105b703"
+  },
+  {
+    "name": "Mankey",
+    "hp": 40,
+    "attack": 80,
+    "defense": 35,
+    "special_attack": 35,
+    "special_defense": 45,
+    "speed": 70,
+    "image": "34b6ee86-d234-4f40-8259-e2594a89d241"
+  },
+  {
+    "name": "Growlithe",
+    "hp": 55,
+    "attack": 70,
+    "defense": 45,
+    "special_attack": 70,
+    "special_defense": 50,
+    "speed": 60,
+    "image": "b67d0060-964d-4826-9d60-893b608a1c40"
+  },
+  {
+    "name": "Arcanine",
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "special_attack": 100,
+    "special_defense": 80,
+    "speed": 95,
+    "image": "e5c7c0e4-78a7-41b5-8eda-a2a508418847"
+  },
+  {
+    "name": "Abra",
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "special_attack": 105,
+    "special_defense": 55,
+    "speed": 90,
+    "image": "7c3613a6-efeb-4279-8779-57ad46301e94"
+  },
+  {
+    "name": "Kadabra",
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "special_attack": 120,
+    "special_defense": 70,
+    "speed": 105,
+    "image": "09cd5011-70a7-4794-852e-950efd7342a5"
+  },
+  {
+    "name": "Alakazam",
+    "hp": 55,
+    "attack": 50,
+    "defense": 45,
+    "special_attack": 135,
+    "special_defense": 95,
+    "speed": 120,
+    "image": "58774bd5-1fc7-45dc-8f4e-8ae8e15dfb2e"
+  },
+  {
+    "name": "Machop",
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "special_attack": 35,
+    "special_defense": 35,
+    "speed": 35,
+    "image": "0ffc5b8e-67bf-43a5-b5f4-e26b303ebd68"
+  },
+  {
+    "name": "Machoke",
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "special_attack": 50,
+    "special_defense": 60,
+    "speed": 45,
+    "image": "e753bbd9-841d-4818-aadf-bb26371d02ad"
+  },
+  {
+    "name": "Machamp",
+    "hp": 90,
+    "attack": 130,
+    "defense": 80,
+    "special_attack": 65,
+    "special_defense": 85,
+    "speed": 55,
+    "image": "fb906b91-d140-4854-b387-75dbe12c2749"
+  },
+  {
+    "name": "Bellsprout",
+    "hp": 50,
+    "attack": 75,
+    "defense": 35,
+    "special_attack": 70,
+    "special_defense": 30,
+    "speed": 40,
+    "image": "f5c923ae-eb38-4853-9a03-4cf549a7c0b2"
+  },
+  {
+    "name": "Geodude",
+    "hp": 40,
+    "attack": 80,
+    "defense": 100,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 20,
+    "image": "0fd8ba93-7653-4acb-bffd-c3dfedced09d"
+  },
+  {
+    "name": "Graveler",
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "special_attack": 45,
+    "special_defense": 45,
+    "speed": 35,
+    "image": "2d6a2c44-2dc7-49c3-ad67-7a8e81d85c0a"
+  },
+  {
+    "name": "Golem",
+    "hp": 80,
+    "attack": 120,
+    "defense": 130,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 45,
+    "image": "c054096c-e2a8-48f5-ba1d-e90530557568"
+  },
+  {
+    "name": "Magnemite",
+    "hp": 25,
+    "attack": 35,
+    "defense": 70,
+    "special_attack": 95,
+    "special_defense": 55,
+    "speed": 45,
+    "image": "b16d9bd0-aee1-487b-bc8b-c148deb47be5"
+  },
+  {
+    "name": "Magneton",
+    "hp": 50,
+    "attack": 60,
+    "defense": 95,
+    "special_attack": 120,
+    "special_defense": 70,
+    "speed": 70,
+    "image": "c119a685-e5d4-43ca-babc-3732899279ed"
+  },
+  {
+    "name": "Doduo",
+    "hp": 35,
+    "attack": 85,
+    "defense": 45,
+    "special_attack": 35,
+    "special_defense": 35,
+    "speed": 75,
+    "image": "f89289c2-164b-4d45-9891-366ed2f08aef"
+  },
+  {
+    "name": "Dodrio",
+    "hp": 60,
+    "attack": 110,
+    "defense": 70,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 110,
+    "image": "74e9bc8a-1952-491a-ade8-ec98adc577b7"
+  },
+  {
+    "name": "Dewgong",
+    "hp": 90,
+    "attack": 70,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 95,
+    "speed": 70,
+    "image": "0696c92b-43d6-46c5-b90f-209beaa3b3b3"
+  },
+  {
+    "name": "Grimer",
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 25,
+    "image": "0c172fa4-124f-4588-8dde-d4ea96508ff9"
+  },
+  {
+    "name": "Cloyster",
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "special_attack": 85,
+    "special_defense": 45,
+    "speed": 70,
+    "image": "2bbdb3b5-084a-4af8-8f99-309c3c96f04c"
+  },
+  {
+    "name": "Gastly",
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "special_attack": 100,
+    "special_defense": 35,
+    "speed": 80,
+    "image": "544cbf63-253c-4ea5-9f69-7162c7bbe268"
+  },
+  {
+    "name": "Haunter",
+    "hp": 45,
+    "attack": 50,
+    "defense": 45,
+    "special_attack": 115,
+    "special_defense": 55,
+    "speed": 95,
+    "image": "8ac5e6b1-0837-4dfb-a038-2ecdc8b65268"
+  },
+  {
+    "name": "Gengar",
+    "hp": 60,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 130,
+    "special_defense": 75,
+    "speed": 110,
+    "image": "641b604e-77aa-4d72-b877-e6f10e6ff559"
+  },
+  {
+    "name": "Drowzee",
+    "hp": 60,
+    "attack": 48,
+    "defense": 45,
+    "special_attack": 43,
+    "special_defense": 90,
+    "speed": 42,
+    "image": "b52191d5-3cb5-42f2-9db8-8bce7ae645c6"
+  },
+  {
+    "name": "Hypno",
+    "hp": 85,
+    "attack": 73,
+    "defense": 70,
+    "special_attack": 73,
+    "special_defense": 115,
+    "speed": 67,
+    "image": "5887ef1e-cae3-4538-9a57-2bc98160d17f"
+  },
+  {
+    "name": "Kingler",
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 75,
+    "image": "485df48d-cec5-42fe-91aa-2ca8a05bdcf1"
+  },
+  {
+    "name": "Electrode",
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 150,
+    "image": "ee67fa12-0c51-40bb-89eb-e285bf61272a"
+  },
+  {
+    "name": "Exeggcute",
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "special_attack": 60,
+    "special_defense": 45,
+    "speed": 40,
+    "image": "50fab700-c0c5-4b94-bfd5-db61e769735b"
+  },
+  {
+    "name": "Exeggutor",
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "special_attack": 125,
+    "special_defense": 75,
+    "speed": 55,
+    "image": "bf164b81-8e93-4b7b-93e6-fa6f47e84129"
+  },
+  {
+    "name": "Cubone",
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 35,
+    "image": "663185e3-9285-42ea-ace1-36945f4bb173"
+  },
+  {
+    "name": "Marowak",
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "special_attack": 50,
+    "special_defense": 80,
+    "speed": 45,
+    "image": "b4160a60-14e0-469b-84fe-6677365c7c48"
+  },
+  {
+    "name": "Hitmonlee",
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "special_attack": 35,
+    "special_defense": 110,
+    "speed": 87,
+    "image": "bfe5baa1-cf00-4372-8feb-dc3a7e5dd083"
+  },
+  {
+    "name": "Hitmonchan",
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "special_attack": 35,
+    "special_defense": 110,
+    "speed": 76,
+    "image": "d855b42d-577c-40ef-9ed8-09fe17e7a19b"
+  },
+  {
+    "name": "Lickitung",
+    "hp": 90,
+    "attack": 55,
+    "defense": 75,
+    "special_attack": 60,
+    "special_defense": 75,
+    "speed": 30,
+    "image": "17088ce5-0ead-4a84-8249-90244683d540"
+  },
+  {
+    "name": "Chansey",
+    "hp": 250,
+    "attack": 5,
+    "defense": 5,
+    "special_attack": 35,
+    "special_defense": 105,
+    "speed": 50,
+    "image": "660917af-b495-4d22-a527-ea610858fc19"
+  },
+  {
+    "name": "Kangaskhan",
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "special_attack": 40,
+    "special_defense": 80,
+    "speed": 90,
+    "image": "080adc0d-3c75-454c-bba2-a7f61839e195"
+  },
+  {
+    "name": "Horsea",
+    "hp": 30,
+    "attack": 40,
+    "defense": 70,
+    "special_attack": 70,
+    "special_defense": 25,
+    "speed": 60,
+    "image": "ad376c13-b8e1-4273-a35a-7e70b2a6dc42"
+  },
+  {
+    "name": "Goldeen",
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "special_attack": 35,
+    "special_defense": 50,
+    "speed": 63,
+    "image": "958ba754-6f02-4853-8365-2b5b8bc8ca6b"
+  },
+  {
+    "name": "Jynx",
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "special_attack": 115,
+    "special_defense": 95,
+    "speed": 95,
+    "image": "bfa18de7-2462-4461-90ac-4c42af052bc5"
+  },
+  {
+    "name": "Electabuzz",
+    "hp": 65,
+    "attack": 83,
+    "defense": 57,
+    "special_attack": 95,
+    "special_defense": 85,
+    "speed": 105,
+    "image": "a1e47fbe-c15d-4a14-a47b-3d4616a66d56"
+  },
+  {
+    "name": "Magmar",
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "special_attack": 100,
+    "special_defense": 85,
+    "speed": 93,
+    "image": "a4c17077-e471-45f1-bfb6-8895b2b3ee46"
+  },
+  {
+    "name": "Magikarp",
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "special_attack": 15,
+    "special_defense": 20,
+    "speed": 80,
+    "image": "bf7b06d9-044d-438e-8bcf-91e5dae42dbe"
+  },
+  {
+    "name": "Gyarados",
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "special_attack": 60,
+    "special_defense": 100,
+    "speed": 81,
+    "image": "4fe03c29-2d26-4524-9517-4db018c4dd96"
+  },
+  {
+    "name": "Lapras",
+    "hp": 130,
+    "attack": 85,
+    "defense": 80,
+    "special_attack": 85,
+    "special_defense": 95,
+    "speed": 60,
+    "image": "cc3e9fbd-2bbd-4619-9813-b982f900bae1"
+  },
+  {
+    "name": "Ditto",
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "special_attack": 48,
+    "special_defense": 48,
+    "speed": 48,
+    "image": "687bbb1f-f8bc-43a6-a2b3-13f3f3b5b1e1"
+  },
+  {
+    "name": "Eevee",
+    "hp": 55,
+    "attack": 55,
+    "defense": 50,
+    "special_attack": 45,
+    "special_defense": 65,
+    "speed": 55,
+    "image": "ad368c63-d79d-4470-9f39-2daa88f36aa1"
+  },
+  {
+    "name": "Jolteon",
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 110,
+    "special_defense": 95,
+    "speed": 130,
+    "image": "592af51f-9b57-4909-b63b-a27703e507ca"
+  },
+  {
+    "name": "Flareon",
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "special_attack": 95,
+    "special_defense": 110,
+    "speed": 65,
+    "image": "41e695a2-c2da-4c6a-a9c1-dd60d44e5b50"
+  },
+  {
+    "name": "Kabuto",
+    "hp": 30,
+    "attack": 80,
+    "defense": 90,
+    "special_attack": 55,
+    "special_defense": 45,
+    "speed": 55,
+    "image": "94ac1195-f58b-4829-9a46-649729d8b56b"
+  },
+  {
+    "name": "Kabutops",
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "special_attack": 65,
+    "special_defense": 70,
+    "speed": 80,
+    "image": "4cc676d8-9e9e-4f5d-831c-857693bec89b"
+  },
+  {
+    "name": "Aerodactyl",
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "special_attack": 60,
+    "special_defense": 75,
+    "speed": 130,
+    "image": "3cc4236c-57b9-4dab-9046-def52b001589"
+  },
+  {
+    "name": "Articuno",
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "special_attack": 95,
+    "special_defense": 125,
+    "speed": 85,
+    "image": "24d5edbd-6575-4a14-9179-1e1fd19085c3"
+  },
+  {
+    "name": "Dratini",
+    "hp": 41,
+    "attack": 64,
+    "defense": 45,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 50,
+    "image": "5668e917-38fa-4467-af12-ea5f45b5a999"
+  },
+  {
+    "name": "Dragonair",
+    "hp": 61,
+    "attack": 84,
+    "defense": 65,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 70,
+    "image": "b84a3be8-6dd0-4b0b-be3f-59b3a02fa6d7"
+  },
+  {
+    "name": "Dragonite",
+    "hp": 91,
+    "attack": 134,
+    "defense": 95,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 80,
+    "image": "cbf7aa97-dd78-465e-a610-c0042ede9fa4"
+  },
+  {
+    "name": "Chikorita",
+    "hp": 45,
+    "attack": 49,
+    "defense": 65,
+    "special_attack": 49,
+    "special_defense": 65,
+    "speed": 45,
+    "image": "2c287fd2-80b4-486d-95b5-9b5d857dea9d"
+  },
+  {
+    "name": "Bayleef",
+    "hp": 60,
+    "attack": 62,
+    "defense": 80,
+    "special_attack": 63,
+    "special_defense": 80,
+    "speed": 60,
+    "image": "c17ef9e0-909e-4623-a75e-6fabd2ad3759"
+  },
+  {
+    "name": "Meganium",
+    "hp": 80,
+    "attack": 82,
+    "defense": 100,
+    "special_attack": 83,
+    "special_defense": 100,
+    "speed": 80,
+    "image": "ff0bfabf-2e00-4935-9f9a-e8a39dabe820"
+  },
+  {
+    "name": "Cyndaquil",
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "special_attack": 60,
+    "special_defense": 50,
+    "speed": 65,
+    "image": "b361ba6f-b305-4f3a-a2e3-745818cbb23d"
+  },
+  {
+    "name": "Croconaw",
+    "hp": 65,
+    "attack": 80,
+    "defense": 80,
+    "special_attack": 59,
+    "special_defense": 63,
+    "speed": 58,
+    "image": "69bbade7-124c-484e-a094-b6613de71ad1"
+  },
+  {
+    "name": "Feraligatr",
+    "hp": 85,
+    "attack": 105,
+    "defense": 100,
+    "special_attack": 79,
+    "special_defense": 83,
+    "speed": 78,
+    "image": "cfe6f718-c754-499f-900a-7962894d243b"
+  },
+  {
+    "name": "Furret",
+    "hp": 85,
+    "attack": 76,
+    "defense": 64,
+    "special_attack": 45,
+    "special_defense": 55,
+    "speed": 90,
+    "image": "4d55864f-06f9-41e9-b52c-af1ba486f3ce"
+  },
+  {
+    "name": "Hoothoot",
+    "hp": 60,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 36,
+    "special_defense": 56,
+    "speed": 50,
+    "image": "af66e097-c430-4c31-bcfd-94ee89f375bb"
+  },
+  {
+    "name": "Ledyba",
+    "hp": 40,
+    "attack": 20,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 80,
+    "speed": 55,
+    "image": "4b2537ee-4fc4-4696-86f9-3091f2eb0875"
+  },
+  {
+    "name": "Ledian",
+    "hp": 55,
+    "attack": 35,
+    "defense": 50,
+    "special_attack": 55,
+    "special_defense": 110,
+    "speed": 85,
+    "image": "294d7f01-0839-470c-bf46-8e907915227d"
+  },
+  {
+    "name": "Ariados",
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 40,
+    "image": "7c95ecbf-6313-49cf-bdc4-83ca4efed83f"
+  },
+  {
+    "name": "Crobat",
+    "hp": 85,
+    "attack": 90,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 80,
+    "speed": 130,
+    "image": "3fa36174-e3f4-4111-aa04-47d82b6c1ea2"
+  },
+  {
+    "name": "Chinchou",
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "special_attack": 56,
+    "special_defense": 56,
+    "speed": 67,
+    "image": "9e6f092f-4cd5-4f10-8c4c-a84785716ea6"
+  },
+  {
+    "name": "Lanturn",
+    "hp": 125,
+    "attack": 58,
+    "defense": 58,
+    "special_attack": 76,
+    "special_defense": 76,
+    "speed": 67,
+    "image": "752b27e3-78db-4cc6-8d26-30e364ec8455"
+  },
+  {
+    "name": "Cleffa",
+    "hp": 50,
+    "attack": 25,
+    "defense": 28,
+    "special_attack": 45,
+    "special_defense": 55,
+    "speed": 15,
+    "image": "4eb7027f-6f6a-4038-9057-f0adb9b93919"
+  },
+  {
+    "name": "Igglybuff",
+    "hp": 90,
+    "attack": 30,
+    "defense": 15,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 15,
+    "image": "94bbee40-3eec-457f-9c41-b2b458b02dc7"
+  },
+  {
+    "name": "Mareep",
+    "hp": 55,
+    "attack": 40,
+    "defense": 40,
+    "special_attack": 65,
+    "special_defense": 45,
+    "speed": 35,
+    "image": "c3df1b97-2238-48e7-9f6a-88a7b993d23a"
+  },
+  {
+    "name": "Flaaffy",
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "special_attack": 80,
+    "special_defense": 60,
+    "speed": 45,
+    "image": "dc520f07-0317-42a0-b621-39819672aeda"
+  },
+  {
+    "name": "Ampharos",
+    "hp": 90,
+    "attack": 75,
+    "defense": 85,
+    "special_attack": 115,
+    "special_defense": 90,
+    "speed": 55,
+    "image": "c0d76d1b-f169-4feb-a905-9e93d5de1aec"
+  },
+  {
+    "name": "Bellossom",
+    "hp": 75,
+    "attack": 80,
+    "defense": 95,
+    "special_attack": 90,
+    "special_defense": 100,
+    "speed": 50,
+    "image": "1e4f0c73-da1a-4a29-b948-d7b07578193b"
+  },
+  {
+    "name": "Marill",
+    "hp": 70,
+    "attack": 20,
+    "defense": 50,
+    "special_attack": 20,
+    "special_defense": 50,
+    "speed": 40,
+    "image": "db71d88b-0198-4a86-9410-5e318e433829"
+  },
+  {
+    "name": "Azumarill",
+    "hp": 100,
+    "attack": 50,
+    "defense": 80,
+    "special_attack": 60,
+    "special_defense": 80,
+    "speed": 50,
+    "image": "38eb2889-31af-40a8-9633-a8de92409b74"
+  },
+  {
+    "name": "Hoppip",
+    "hp": 35,
+    "attack": 35,
+    "defense": 40,
+    "special_attack": 35,
+    "special_defense": 55,
+    "speed": 50,
+    "image": "a2bfdf0d-b937-4450-9923-210470c8ec00"
+  },
+  {
+    "name": "Jumpluff",
+    "hp": 75,
+    "attack": 55,
+    "defense": 70,
+    "special_attack": 55,
+    "special_defense": 95,
+    "speed": 110,
+    "image": "23e11cc2-c7b0-4134-9148-445ec6c70c85"
+  },
+  {
+    "name": "Aipom",
+    "hp": 55,
+    "attack": 70,
+    "defense": 55,
+    "special_attack": 40,
+    "special_defense": 55,
+    "speed": 85,
+    "image": "2a684566-91b5-42bb-be0a-61db692d841e"
+  },
+  {
+    "name": "Espeon",
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 130,
+    "special_defense": 95,
+    "speed": 110,
+    "image": "cea9d65c-f635-4f64-9aff-542a5f767c7f"
+  },
+  {
+    "name": "Girafarig",
+    "hp": 70,
+    "attack": 80,
+    "defense": 65,
+    "special_attack": 90,
+    "special_defense": 65,
+    "speed": 85,
+    "image": "e3047812-6e96-4da9-ba01-e9439ee5fdcf"
+  },
+  {
+    "name": "Forretress",
+    "hp": 75,
+    "attack": 90,
+    "defense": 140,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 40,
+    "image": "2aa9e952-91c2-4efa-a214-6a1514ba51d6"
+  },
+  {
+    "name": "Dunsparce",
+    "hp": 100,
+    "attack": 70,
+    "defense": 70,
+    "special_attack": 65,
+    "special_defense": 65,
+    "speed": 45,
+    "image": "6b59d8f1-44ee-4123-b4b7-91e11db85b3f"
+  },
+  {
+    "name": "Gligar",
+    "hp": 65,
+    "attack": 75,
+    "defense": 105,
+    "special_attack": 35,
+    "special_defense": 65,
+    "speed": 85,
+    "image": "527ae98c-aaaf-4534-94f7-b47e0366f9d5"
+  },
+  {
+    "name": "Granbull",
+    "hp": 90,
+    "attack": 120,
+    "defense": 75,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 45,
+    "image": "7a41472d-f77d-414c-881d-ad221aa8be11"
+  },
+  {
+    "name": "Heracross",
+    "hp": 80,
+    "attack": 125,
+    "defense": 75,
+    "special_attack": 40,
+    "special_defense": 95,
+    "speed": 85,
+    "image": "b358307a-2cd2-4781-81b9-c7d9a0fa44be"
+  },
+  {
+    "name": "Magcargo",
+    "hp": 60,
+    "attack": 50,
+    "defense": 120,
+    "special_attack": 90,
+    "special_defense": 80,
+    "speed": 30,
+    "image": "03698b4c-3622-42e2-ae08-bc928b519449"
+  },
+  {
+    "name": "Corsola",
+    "hp": 65,
+    "attack": 55,
+    "defense": 95,
+    "special_attack": 65,
+    "special_defense": 95,
+    "speed": 35,
+    "image": "193988f4-dc44-4b90-9ba9-983788b6f5cb"
+  },
+  {
+    "name": "Delibird",
+    "hp": 45,
+    "attack": 55,
+    "defense": 45,
+    "special_attack": 65,
+    "special_defense": 45,
+    "speed": 75,
+    "image": "a0c57ba8-f4a6-4b2d-8fb0-22b241f6306f"
+  },
+  {
+    "name": "Mantine",
+    "hp": 85,
+    "attack": 40,
+    "defense": 70,
+    "special_attack": 80,
+    "special_defense": 140,
+    "speed": 70,
+    "image": "ac386b1d-a216-4b1e-a921-748c9a446a9f"
+  },
+  {
+    "name": "Houndour",
+    "hp": 45,
+    "attack": 60,
+    "defense": 30,
+    "special_attack": 80,
+    "special_defense": 50,
+    "speed": 65,
+    "image": "f3bde391-a316-4581-bf41-7bc48d55dc83"
+  },
+  {
+    "name": "Houndoom",
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "special_attack": 110,
+    "special_defense": 80,
+    "speed": 95,
+    "image": "3d737c61-828d-4a82-bf7e-a0ea4fbb55b2"
+  },
+  {
+    "name": "Kingdra",
+    "hp": 75,
+    "attack": 95,
+    "defense": 95,
+    "special_attack": 95,
+    "special_defense": 95,
+    "speed": 85,
+    "image": "0e56c52a-cee4-4621-83ee-6e6767d36b00"
+  },
+  {
+    "name": "Donphan",
+    "hp": 90,
+    "attack": 120,
+    "defense": 120,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 50,
+    "image": "fb42b553-b5b0-452f-980f-8543685161ba"
+  },
+  {
+    "name": "Hitmontop",
+    "hp": 50,
+    "attack": 95,
+    "defense": 95,
+    "special_attack": 35,
+    "special_defense": 110,
+    "speed": 70,
+    "image": "97753311-fdae-4558-b762-aef85759be7f"
+  },
+  {
+    "name": "Elekid",
+    "hp": 45,
+    "attack": 63,
+    "defense": 37,
+    "special_attack": 65,
+    "special_defense": 55,
+    "speed": 95,
+    "image": "c6d74a46-7638-40aa-a224-112fa28c7654"
+  },
+  {
+    "name": "Magby",
+    "hp": 45,
+    "attack": 75,
+    "defense": 37,
+    "special_attack": 70,
+    "special_defense": 55,
+    "speed": 83,
+    "image": "0d859354-3d31-4b56-93e7-2c317530f91e"
+  },
+  {
+    "name": "Blissey",
+    "hp": 255,
+    "attack": 10,
+    "defense": 10,
+    "special_attack": 75,
+    "special_defense": 135,
+    "speed": 55,
+    "image": "a1b47f3b-569f-40a2-8324-b6acffc652d1"
+  },
+  {
+    "name": "Entei",
+    "hp": 115,
+    "attack": 115,
+    "defense": 85,
+    "special_attack": 90,
+    "special_defense": 75,
+    "speed": 100,
+    "image": "f46c39c8-a1b9-4799-8227-a153ad3aaa31"
+  },
+  {
+    "name": "Larvitar",
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "special_attack": 45,
+    "special_defense": 50,
+    "speed": 41,
+    "image": "ad358a13-889e-4f17-a010-604e28f2b3b3"
+  },
+  {
+    "name": "Lugia",
+    "hp": 106,
+    "attack": 90,
+    "defense": 130,
+    "special_attack": 90,
+    "special_defense": 154,
+    "speed": 110,
+    "image": "f152dcd1-166d-413a-abf0-ffff3b131f51"
+  },
+  {
+    "name": "Celebi",
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 100,
+    "image": "219331fe-4f88-4533-a19d-9f3cb3233fb3"
+  },
+  {
+    "name": "Grovyle",
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "special_attack": 85,
+    "special_defense": 65,
+    "speed": 95,
+    "image": "2af9f229-e5c0-43f3-9d99-be8f00e89879"
+  },
+  {
+    "name": "Combusken",
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "special_attack": 85,
+    "special_defense": 60,
+    "speed": 55,
+    "image": "d06fefe3-14fa-47a9-87ca-90f6b104c6d4"
+  },
+  {
+    "name": "Blaziken",
+    "hp": 80,
+    "attack": 120,
+    "defense": 70,
+    "special_attack": 110,
+    "special_defense": 70,
+    "speed": 80,
+    "image": "c64d40ba-71dd-4ab9-8eb4-0fe8506df415"
+  },
+  {
+    "name": "Marshtomp",
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 50,
+    "image": "fb81d094-34a6-4e27-aa4f-a8cd77aa5ade"
+  },
+  {
+    "name": "Linoone",
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "special_attack": 50,
+    "special_defense": 61,
+    "speed": 100,
+    "image": "ceb9fbae-f87f-44ef-9ed0-4684f4eea94e"
+  },
+  {
+    "name": "Beautifly",
+    "hp": 60,
+    "attack": 70,
+    "defense": 50,
+    "special_attack": 100,
+    "special_defense": 50,
+    "speed": 65,
+    "image": "b25f49ce-387e-4e83-8912-85c927fe5d09"
+  },
+  {
+    "name": "Cascoon",
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "special_attack": 25,
+    "special_defense": 25,
+    "speed": 15,
+    "image": "ebc3a017-6283-42d2-9b80-55096f4b7672"
+  },
+  {
+    "name": "Dustox",
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "special_attack": 50,
+    "special_defense": 90,
+    "speed": 65,
+    "image": "b56ceba9-4298-44ab-98d7-4940a42f089f"
+  },
+  {
+    "name": "Lotad",
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 30,
+    "image": "03124a32-8fcc-4810-b4d4-6c93e4f39693"
+  },
+  {
+    "name": "Lombre",
+    "hp": 60,
+    "attack": 50,
+    "defense": 50,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 50,
+    "image": "cd6fff38-beff-4cd8-baf2-463a9bae1300"
+  },
+  {
+    "name": "Ludicolo",
+    "hp": 80,
+    "attack": 70,
+    "defense": 70,
+    "special_attack": 90,
+    "special_defense": 100,
+    "speed": 70,
+    "image": "bf9ffce8-25eb-45b7-aedb-9a3b21c4d005"
+  },
+  {
+    "name": "Kirlia",
+    "hp": 38,
+    "attack": 35,
+    "defense": 35,
+    "special_attack": 65,
+    "special_defense": 55,
+    "speed": 50,
+    "image": "034b5f5b-3b65-4b8f-8063-927b14cfc92a"
+  },
+  {
+    "name": "Gardevoir",
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "special_attack": 125,
+    "special_defense": 115,
+    "speed": 80,
+    "image": "0795f837-316f-40c4-92f1-cd43b4b3fa8a"
+  },
+  {
+    "name": "Masquerain",
+    "hp": 70,
+    "attack": 60,
+    "defense": 62,
+    "special_attack": 100,
+    "special_defense": 82,
+    "speed": 80,
+    "image": "266bd911-3da7-4d1f-88bc-28773492ee8a"
+  },
+  {
+    "name": "Breloom",
+    "hp": 60,
+    "attack": 130,
+    "defense": 80,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 70,
+    "image": "19a57970-28fd-4b91-b775-0b65a07bcaf9"
+  },
+  {
+    "name": "Loudred",
+    "hp": 84,
+    "attack": 71,
+    "defense": 43,
+    "special_attack": 71,
+    "special_defense": 43,
+    "speed": 48,
+    "image": "4dec6a9e-17fc-463f-b9da-374251d1ff04"
+  },
+  {
+    "name": "Exploud",
+    "hp": 104,
+    "attack": 91,
+    "defense": 63,
+    "special_attack": 91,
+    "special_defense": 73,
+    "speed": 68,
+    "image": "1acf455a-6c61-4174-9012-1e5eefc7e100"
+  },
+  {
+    "name": "Makuhita",
+    "hp": 72,
+    "attack": 60,
+    "defense": 30,
+    "special_attack": 20,
+    "special_defense": 30,
+    "speed": 25,
+    "image": "c9605519-5678-49c4-8ae4-61b9a855a215"
+  },
+  {
+    "name": "Hariyama",
+    "hp": 144,
+    "attack": 120,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 60,
+    "speed": 50,
+    "image": "124ec6f3-73d1-415f-99d1-9418e01483ac"
+  },
+  {
+    "name": "Azurill",
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "special_attack": 20,
+    "special_defense": 40,
+    "speed": 20,
+    "image": "ce11f457-a0ac-4343-9eca-837ee1a08f8a"
+  },
+  {
+    "name": "Delcatty",
+    "hp": 70,
+    "attack": 65,
+    "defense": 65,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 90,
+    "image": "16aaee04-b2ea-417f-88fd-d738ab426362"
+  },
+  {
+    "name": "Mawile",
+    "hp": 50,
+    "attack": 85,
+    "defense": 85,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 50,
+    "image": "ef9ec96f-93e4-4fd5-9a34-668966e61621"
+  },
+  {
+    "name": "Aron",
+    "hp": 50,
+    "attack": 70,
+    "defense": 100,
+    "special_attack": 40,
+    "special_defense": 40,
+    "speed": 30,
+    "image": "4faf39d5-ca1d-4cd6-8b8c-d93fd06f08eb"
+  },
+  {
+    "name": "Lairon",
+    "hp": 60,
+    "attack": 90,
+    "defense": 140,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 40,
+    "image": "fef198d0-b782-4362-ade0-1116580e6a9f"
+  },
+  {
+    "name": "Aggron",
+    "hp": 70,
+    "attack": 110,
+    "defense": 180,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 50,
+    "image": "86d234bd-58ce-4b45-a28c-999b7aca0e7f"
+  },
+  {
+    "name": "Meditite",
+    "hp": 30,
+    "attack": 40,
+    "defense": 55,
+    "special_attack": 40,
+    "special_defense": 55,
+    "speed": 60,
+    "image": "c0f08bbe-279a-4306-9df7-95ef5c524f40"
+  },
+  {
+    "name": "Medicham",
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "special_attack": 60,
+    "special_defense": 75,
+    "speed": 80,
+    "image": "2a14a760-a770-43a9-bb5b-bee05ed41ae1"
+  },
+  {
+    "name": "Electrike",
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "special_attack": 65,
+    "special_defense": 40,
+    "speed": 65,
+    "image": "602553e3-1104-4ce4-bee2-81f30e822f70"
+  },
+  {
+    "name": "Manectric",
+    "hp": 70,
+    "attack": 75,
+    "defense": 60,
+    "special_attack": 105,
+    "special_defense": 60,
+    "speed": 105,
+    "image": "cf7c7b35-fba6-4b34-bd45-7b9d0e82ed2f"
+  },
+  {
+    "name": "Illumise",
+    "hp": 65,
+    "attack": 47,
+    "defense": 75,
+    "special_attack": 73,
+    "special_defense": 85,
+    "speed": 85,
+    "image": "472369fe-7d07-48af-a8bc-360bd3862583"
+  },
+  {
+    "name": "Gulpin",
+    "hp": 70,
+    "attack": 43,
+    "defense": 53,
+    "special_attack": 43,
+    "special_defense": 53,
+    "speed": 40,
+    "image": "422826d0-2944-4a4b-8dc9-a561b4e3260c"
+  },
+  {
+    "name": "Carvanha",
+    "hp": 45,
+    "attack": 90,
+    "defense": 20,
+    "special_attack": 65,
+    "special_defense": 20,
+    "speed": 65,
+    "image": "5d4c1855-faf7-436f-9c0a-adbe77bfd8ce"
+  },
+  {
+    "name": "Camerupt",
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "special_attack": 105,
+    "special_defense": 75,
+    "speed": 40,
+    "image": "a42b9c68-3831-4314-81eb-57cdc299722e"
+  },
+  {
+    "name": "Grumpig",
+    "hp": 80,
+    "attack": 45,
+    "defense": 65,
+    "special_attack": 90,
+    "special_defense": 110,
+    "speed": 80,
+    "image": "8995791b-3210-47ba-8b48-dfb304b6ff69"
+  },
+  {
+    "name": "Flygon",
+    "hp": 80,
+    "attack": 100,
+    "defense": 80,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 100,
+    "image": "791d2f32-dd71-4151-8c64-9b9b6d20c7fa"
+  },
+  {
+    "name": "Cacnea",
+    "hp": 50,
+    "attack": 85,
+    "defense": 40,
+    "special_attack": 85,
+    "special_defense": 40,
+    "speed": 35,
+    "image": "22fb8bbf-8968-43a8-93ee-edc98e01f8e0"
+  },
+  {
+    "name": "Cacturne",
+    "hp": 70,
+    "attack": 115,
+    "defense": 60,
+    "special_attack": 115,
+    "special_defense": 60,
+    "speed": 55,
+    "image": "9fc86d20-99cd-4c8b-98df-08e9542c3be1"
+  },
+  {
+    "name": "Altaria",
+    "hp": 75,
+    "attack": 70,
+    "defense": 90,
+    "special_attack": 70,
+    "special_defense": 105,
+    "speed": 80,
+    "image": "cd420817-728d-4fcd-aee1-ad37303e48b7"
+  },
+  {
+    "name": "Lunatone",
+    "hp": 90,
+    "attack": 55,
+    "defense": 65,
+    "special_attack": 95,
+    "special_defense": 85,
+    "speed": 70,
+    "image": "54a22f3b-0cb3-453e-94ff-8b8847eb6ca6"
+  },
+  {
+    "name": "Barboach",
+    "hp": 50,
+    "attack": 48,
+    "defense": 43,
+    "special_attack": 46,
+    "special_defense": 41,
+    "speed": 60,
+    "image": "fda2fc0a-007b-402b-8ee2-d11774d18bdc"
+  },
+  {
+    "name": "Corphish",
+    "hp": 43,
+    "attack": 80,
+    "defense": 65,
+    "special_attack": 50,
+    "special_defense": 35,
+    "speed": 35,
+    "image": "c5aad754-fbdf-4456-8419-2a53b585318f"
+  },
+  {
+    "name": "Crawdaunt",
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "special_attack": 90,
+    "special_defense": 55,
+    "speed": 55,
+    "image": "cab2b9c2-5d75-4824-8ed4-b3874f46ddca"
+  },
+  {
+    "name": "Baltoy",
+    "hp": 40,
+    "attack": 40,
+    "defense": 55,
+    "special_attack": 40,
+    "special_defense": 70,
+    "speed": 55,
+    "image": "43c2ec5f-6cc7-40ac-99ac-67fd15a24212"
+  },
+  {
+    "name": "Claydol",
+    "hp": 60,
+    "attack": 70,
+    "defense": 105,
+    "special_attack": 70,
+    "special_defense": 120,
+    "speed": 75,
+    "image": "97e0bc95-4c94-4fb1-8508-e908aeec9803"
+  },
+  {
+    "name": "Lileep",
+    "hp": 66,
+    "attack": 41,
+    "defense": 77,
+    "special_attack": 61,
+    "special_defense": 87,
+    "speed": 23,
+    "image": "af88aca7-e052-45b2-9b56-773123751914"
+  },
+  {
+    "name": "Cradily",
+    "hp": 86,
+    "attack": 81,
+    "defense": 97,
+    "special_attack": 81,
+    "special_defense": 107,
+    "speed": 43,
+    "image": "e0daf682-cf30-42f4-8c0f-e0426871a0f8"
+  },
+  {
+    "name": "Anorith",
+    "hp": 45,
+    "attack": 95,
+    "defense": 50,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 75,
+    "image": "5180b82a-ce44-45e7-964a-b2f6da4630a8"
+  },
+  {
+    "name": "Armaldo",
+    "hp": 75,
+    "attack": 125,
+    "defense": 100,
+    "special_attack": 70,
+    "special_defense": 80,
+    "speed": 45,
+    "image": "6b213543-42af-4693-956c-31818a2a33d7"
+  },
+  {
+    "name": "Feebas",
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "special_attack": 10,
+    "special_defense": 55,
+    "speed": 80,
+    "image": "d9ffa90b-0f61-4718-a453-a29847a55c08"
+  },
+  {
+    "name": "Castform",
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 70,
+    "image": "6498c192-0640-4abc-91d7-b6f156e00489"
+  },
+  {
+    "name": "Kecleon",
+    "hp": 60,
+    "attack": 90,
+    "defense": 70,
+    "special_attack": 60,
+    "special_defense": 120,
+    "speed": 40,
+    "image": "f9ea6ea0-155d-4ef5-828a-3b53bcaf22f0"
+  },
+  {
+    "name": "Banette",
+    "hp": 64,
+    "attack": 115,
+    "defense": 65,
+    "special_attack": 83,
+    "special_defense": 63,
+    "speed": 65,
+    "image": "4fbab273-3d51-4fee-b07e-63c642728a37"
+  },
+  {
+    "name": "Duskull",
+    "hp": 20,
+    "attack": 40,
+    "defense": 90,
+    "special_attack": 30,
+    "special_defense": 90,
+    "speed": 25,
+    "image": "bdb5a3e8-f251-4634-8662-63edf4103b3f"
+  },
+  {
+    "name": "Dusclops",
+    "hp": 40,
+    "attack": 70,
+    "defense": 130,
+    "special_attack": 60,
+    "special_defense": 130,
+    "speed": 25,
+    "image": "d1c81f45-204f-4957-bea8-fc798cd67bd2"
+  },
+  {
+    "name": "Chimecho",
+    "hp": 75,
+    "attack": 50,
+    "defense": 80,
+    "special_attack": 95,
+    "special_defense": 90,
+    "speed": 65,
+    "image": "06124c43-c8f1-49ec-9f72-85abb2eb4d83"
+  },
+  {
+    "name": "Absol",
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "special_attack": 75,
+    "special_defense": 60,
+    "speed": 75,
+    "image": "a8afcb47-93dd-4af5-bf61-e0c7bb06f0ad"
+  },
+  {
+    "name": "Glalie",
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 80,
+    "image": "e5b1bb55-4954-4f80-9981-93a32cc69a86"
+  },
+  {
+    "name": "Clamperl",
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "special_attack": 74,
+    "special_defense": 55,
+    "speed": 32,
+    "image": "ffb25db8-f7c7-4d7e-86da-d02ca692057f"
+  },
+  {
+    "name": "Huntail",
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "special_attack": 94,
+    "special_defense": 75,
+    "speed": 52,
+    "image": "f557d16b-9b9a-42a7-a81b-9fa4fc095f91"
+  },
+  {
+    "name": "Gorebyss",
+    "hp": 55,
+    "attack": 84,
+    "defense": 105,
+    "special_attack": 114,
+    "special_defense": 75,
+    "speed": 52,
+    "image": "3fc4f3de-e43b-4e73-84fb-b66b9314b678"
+  },
+  {
+    "name": "Luvdisc",
+    "hp": 43,
+    "attack": 30,
+    "defense": 55,
+    "special_attack": 40,
+    "special_defense": 65,
+    "speed": 97,
+    "image": "cd3b43bb-1462-4794-817c-751d2715fd4a"
+  },
+  {
+    "name": "Bagon",
+    "hp": 45,
+    "attack": 75,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 50,
+    "image": "f87d0cd7-d464-458a-ad1e-f5c53e118b55"
+  },
+  {
+    "name": "Beldum",
+    "hp": 40,
+    "attack": 55,
+    "defense": 80,
+    "special_attack": 35,
+    "special_defense": 60,
+    "speed": 30,
+    "image": "c54f911c-a26b-4db1-be2b-d50035f06203"
+  },
+  {
+    "name": "Latias",
+    "hp": 80,
+    "attack": 80,
+    "defense": 90,
+    "special_attack": 110,
+    "special_defense": 130,
+    "speed": 110,
+    "image": "d3f1c181-5817-4e08-be9d-6c386e757fc1"
+  },
+  {
+    "name": "Latios",
+    "hp": 80,
+    "attack": 90,
+    "defense": 80,
+    "special_attack": 130,
+    "special_defense": 110,
+    "speed": 110,
+    "image": "6f4b9f25-1d37-4baa-8c36-28bf5e9ccc4d"
+  },
+  {
+    "name": "Kyogre",
+    "hp": 100,
+    "attack": 100,
+    "defense": 90,
+    "special_attack": 150,
+    "special_defense": 140,
+    "speed": 90,
+    "image": "747065f0-4cd8-48e7-b5a9-fdee597daf58"
+  },
+  {
+    "name": "Groudon",
+    "hp": 100,
+    "attack": 150,
+    "defense": 140,
+    "special_attack": 100,
+    "special_defense": 90,
+    "speed": 90,
+    "image": "413afbe8-3ef1-4eef-aac8-5ad49ff9df7e"
+  },
+  {
+    "name": "Jirachi",
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 100,
+    "image": "fd564599-11aa-4bcd-8a96-1dcf0a40a570"
+  },
+  {
+    "name": "Deoxys",
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "special_attack": 150,
+    "special_defense": 50,
+    "speed": 150,
+    "image": "cad37621-38ed-4f99-9eb1-956b01459039"
+  },
+  {
+    "name": "Grotle",
+    "hp": 75,
+    "attack": 89,
+    "defense": 85,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 36,
+    "image": "589a53e2-e674-47e7-8a1d-79a2db0672cf"
+  },
+  {
+    "name": "Chimchar",
+    "hp": 44,
+    "attack": 58,
+    "defense": 44,
+    "special_attack": 58,
+    "special_defense": 44,
+    "speed": 61,
+    "image": "24d6def7-6c47-4bff-9971-ee1604310073"
+  },
+  {
+    "name": "Infernape",
+    "hp": 76,
+    "attack": 104,
+    "defense": 71,
+    "special_attack": 104,
+    "special_defense": 71,
+    "speed": 108,
+    "image": "fb60b819-bab3-489b-9c1d-1a64765a7756"
+  },
+  {
+    "name": "Empoleon",
+    "hp": 84,
+    "attack": 86,
+    "defense": 88,
+    "special_attack": 111,
+    "special_defense": 101,
+    "speed": 60,
+    "image": "2cbb7009-0b36-4ba4-9922-c8b211f9a0d8"
+  },
+  {
+    "name": "Bidoof",
+    "hp": 59,
+    "attack": 45,
+    "defense": 40,
+    "special_attack": 35,
+    "special_defense": 40,
+    "speed": 31,
+    "image": "aa004313-3603-4c23-a2ba-78c54cb603b2"
+  },
+  {
+    "name": "Bibarel",
+    "hp": 79,
+    "attack": 85,
+    "defense": 60,
+    "special_attack": 55,
+    "special_defense": 60,
+    "speed": 71,
+    "image": "5497f590-51bb-459c-a894-b60ae4d9d6cc"
+  },
+  {
+    "name": "Luxio",
+    "hp": 60,
+    "attack": 85,
+    "defense": 49,
+    "special_attack": 60,
+    "special_defense": 49,
+    "speed": 60,
+    "image": "f0c5bfe4-e85a-4c08-a6f6-2144dc039b9b"
+  },
+  {
+    "name": "Luxray",
+    "hp": 80,
+    "attack": 120,
+    "defense": 79,
+    "special_attack": 95,
+    "special_defense": 79,
+    "speed": 70,
+    "image": "b8b00b74-a8ce-4d63-9bdb-c5236a0d9809"
+  },
+  {
+    "name": "Budew",
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "special_attack": 50,
+    "special_defense": 70,
+    "speed": 55,
+    "image": "b3f814e7-fd52-4278-9271-09cf1f9d4732"
+  },
+  {
+    "name": "Cranidos",
+    "hp": 67,
+    "attack": 125,
+    "defense": 40,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 58,
+    "image": "53ae19d5-2ab3-4f3b-8b03-0fe33f47b02d"
+  },
+  {
+    "name": "Bastiodon",
+    "hp": 60,
+    "attack": 52,
+    "defense": 168,
+    "special_attack": 47,
+    "special_defense": 138,
+    "speed": 30,
+    "image": "29b92fe2-41d6-4344-90ce-49094caaa85d"
+  },
+  {
+    "name": "Burmy",
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "special_attack": 29,
+    "special_defense": 45,
+    "speed": 36,
+    "image": "8a3c889b-5f93-4a65-a48b-56e728708ec4"
+  },
+  {
+    "name": "Combee",
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "special_attack": 30,
+    "special_defense": 42,
+    "speed": 70,
+    "image": "552b5332-0ed6-4fda-aaa4-c5c99c9624d2"
+  },
+  {
+    "name": "Buizel",
+    "hp": 55,
+    "attack": 65,
+    "defense": 35,
+    "special_attack": 60,
+    "special_defense": 30,
+    "speed": 85,
+    "image": "51f11a7f-7633-4177-afe6-9577fbddf941"
+  },
+  {
+    "name": "Floatzel",
+    "hp": 85,
+    "attack": 105,
+    "defense": 55,
+    "special_attack": 85,
+    "special_defense": 50,
+    "speed": 115,
+    "image": "cb822cf2-5a47-4c53-85e7-572ad95fb309"
+  },
+  {
+    "name": "Cherubi",
+    "hp": 45,
+    "attack": 35,
+    "defense": 45,
+    "special_attack": 62,
+    "special_defense": 53,
+    "speed": 35,
+    "image": "27246853-6135-4dfc-afb5-dc589654e6ad"
+  },
+  {
+    "name": "Cherrim",
+    "hp": 70,
+    "attack": 60,
+    "defense": 70,
+    "special_attack": 87,
+    "special_defense": 78,
+    "speed": 85,
+    "image": "3b5b91c1-a030-4886-afa8-75e52b846737"
+  },
+  {
+    "name": "Gastrodon",
+    "hp": 111,
+    "attack": 83,
+    "defense": 68,
+    "special_attack": 92,
+    "special_defense": 82,
+    "speed": 39,
+    "image": "70d52cf0-ddcd-4912-b9e0-9ac6867263cd"
+  },
+  {
+    "name": "Ambipom",
+    "hp": 75,
+    "attack": 100,
+    "defense": 66,
+    "special_attack": 60,
+    "special_defense": 66,
+    "speed": 115,
+    "image": "99661f93-7c43-4e6d-8b51-33a7cf581bec"
+  },
+  {
+    "name": "Drifloon",
+    "hp": 90,
+    "attack": 50,
+    "defense": 34,
+    "special_attack": 60,
+    "special_defense": 44,
+    "speed": 70,
+    "image": "d9b80b32-06c6-410a-a154-37c867f6a9cd"
+  },
+  {
+    "name": "Drifblim",
+    "hp": 150,
+    "attack": 80,
+    "defense": 44,
+    "special_attack": 90,
+    "special_defense": 54,
+    "speed": 80,
+    "image": "8800037b-da76-402d-971d-6f21c5be4cde"
+  },
+  {
+    "name": "Buneary",
+    "hp": 55,
+    "attack": 66,
+    "defense": 44,
+    "special_attack": 44,
+    "special_defense": 56,
+    "speed": 85,
+    "image": "27b0d063-406a-4e11-9cdd-13e334c93ffb"
+  },
+  {
+    "name": "Lopunny",
+    "hp": 65,
+    "attack": 76,
+    "defense": 84,
+    "special_attack": 54,
+    "special_defense": 96,
+    "speed": 105,
+    "image": "02c6c2de-a133-4833-ba49-7f28affff2f9"
+  },
+  {
+    "name": "Honchkrow",
+    "hp": 100,
+    "attack": 125,
+    "defense": 52,
+    "special_attack": 105,
+    "special_defense": 52,
+    "speed": 71,
+    "image": "4e22462b-157e-479d-99e5-04e384cd6ecc"
+  },
+  {
+    "name": "Glameow",
+    "hp": 49,
+    "attack": 55,
+    "defense": 42,
+    "special_attack": 42,
+    "special_defense": 37,
+    "speed": 85,
+    "image": "a183d1df-0e80-4247-881e-2624611c1998"
+  },
+  {
+    "name": "Chingling",
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "special_attack": 65,
+    "special_defense": 50,
+    "speed": 45,
+    "image": "da4745e7-ee4b-492e-b19c-849072df7aea"
+  },
+  {
+    "name": "Bronzor",
+    "hp": 57,
+    "attack": 24,
+    "defense": 86,
+    "special_attack": 24,
+    "special_defense": 86,
+    "speed": 23,
+    "image": "daf12190-450e-4852-afee-bc77d96bda50"
+  },
+  {
+    "name": "Bronzong",
+    "hp": 67,
+    "attack": 89,
+    "defense": 116,
+    "special_attack": 79,
+    "special_defense": 116,
+    "speed": 33,
+    "image": "a45353e1-bf26-4007-99af-a33a360400bc"
+  },
+  {
+    "name": "Bonsly",
+    "hp": 50,
+    "attack": 80,
+    "defense": 95,
+    "special_attack": 10,
+    "special_defense": 45,
+    "speed": 10,
+    "image": "8d78ca22-461e-47f1-9622-ba6e39590f6a"
+  },
+  {
+    "name": "Happiny",
+    "hp": 100,
+    "attack": 5,
+    "defense": 5,
+    "special_attack": 15,
+    "special_defense": 65,
+    "speed": 30,
+    "image": "94d3245c-5a5c-4304-a4c9-0c1865acd66a"
+  },
+  {
+    "name": "Chatot",
+    "hp": 76,
+    "attack": 65,
+    "defense": 45,
+    "special_attack": 92,
+    "special_defense": 42,
+    "speed": 91,
+    "image": "309878e7-9257-4a66-b2b1-ee6f8c2a3d5d"
+  },
+  {
+    "name": "Gible",
+    "hp": 58,
+    "attack": 70,
+    "defense": 45,
+    "special_attack": 40,
+    "special_defense": 45,
+    "speed": 42,
+    "image": "5fd2bb36-5ae2-48c7-bad0-24470740d479"
+  },
+  {
+    "name": "Gabite",
+    "hp": 68,
+    "attack": 90,
+    "defense": 65,
+    "special_attack": 50,
+    "special_defense": 55,
+    "speed": 82,
+    "image": "a98cba71-9eb3-43ad-972b-7a302f39d5d4"
+  },
+  {
+    "name": "Garchomp",
+    "hp": 108,
+    "attack": 130,
+    "defense": 95,
+    "special_attack": 80,
+    "special_defense": 85,
+    "speed": 102,
+    "image": "ab847383-0f1c-4d38-a822-1257467ea263"
+  },
+  {
+    "name": "Lucario",
+    "hp": 70,
+    "attack": 110,
+    "defense": 70,
+    "special_attack": 115,
+    "special_defense": 70,
+    "speed": 90,
+    "image": "3575c29a-24f3-402e-a421-6a101af24421"
+  },
+  {
+    "name": "Hippopotas",
+    "hp": 68,
+    "attack": 72,
+    "defense": 78,
+    "special_attack": 38,
+    "special_defense": 42,
+    "speed": 32,
+    "image": "f5c7f9e9-0929-4196-989a-edbb8155a60e"
+  },
+  {
+    "name": "Hippowdon",
+    "hp": 108,
+    "attack": 112,
+    "defense": 118,
+    "special_attack": 68,
+    "special_defense": 72,
+    "speed": 47,
+    "image": "672b16ec-2b77-4f2d-a14d-b409a59cdcf5"
+  },
+  {
+    "name": "Drapion",
+    "hp": 70,
+    "attack": 90,
+    "defense": 110,
+    "special_attack": 60,
+    "special_defense": 75,
+    "speed": 95,
+    "image": "6cef4e05-a753-44c7-a0b4-03bb8f49e2b4"
+  },
+  {
+    "name": "Croagunk",
+    "hp": 48,
+    "attack": 61,
+    "defense": 40,
+    "special_attack": 61,
+    "special_defense": 40,
+    "speed": 50,
+    "image": "f8f1f2f9-902a-4e17-8ba9-3ec6bc4dda77"
+  },
+  {
+    "name": "Carnivine",
+    "hp": 74,
+    "attack": 100,
+    "defense": 72,
+    "special_attack": 90,
+    "special_defense": 72,
+    "speed": 46,
+    "image": "6c9036b4-80cb-49db-a9e1-b0ab49e2ddc6"
+  },
+  {
+    "name": "Finneon",
+    "hp": 49,
+    "attack": 49,
+    "defense": 56,
+    "special_attack": 49,
+    "special_defense": 61,
+    "speed": 66,
+    "image": "217b3cb4-a07c-4421-877e-c36fbc5a6619"
+  },
+  {
+    "name": "Lumineon",
+    "hp": 69,
+    "attack": 69,
+    "defense": 76,
+    "special_attack": 69,
+    "special_defense": 86,
+    "speed": 91,
+    "image": "4ac6dc13-602e-4c3e-b024-9a648e0fa2b9"
+  },
+  {
+    "name": "Mantyke",
+    "hp": 45,
+    "attack": 20,
+    "defense": 50,
+    "special_attack": 60,
+    "special_defense": 120,
+    "speed": 50,
+    "image": "40e24c3f-8e82-4d7e-98bb-f0ea49457640"
+  },
+  {
+    "name": "Abomasnow",
+    "hp": 90,
+    "attack": 92,
+    "defense": 75,
+    "special_attack": 92,
+    "special_defense": 85,
+    "speed": 60,
+    "image": "e37168b6-248f-4228-995e-3e43aa677054"
+  },
+  {
+    "name": "Magnezone",
+    "hp": 70,
+    "attack": 70,
+    "defense": 115,
+    "special_attack": 130,
+    "special_defense": 90,
+    "speed": 60,
+    "image": "317cc673-7a1f-4e60-9ed2-84d507989d31"
+  },
+  {
+    "name": "Lickilicky",
+    "hp": 110,
+    "attack": 85,
+    "defense": 95,
+    "special_attack": 80,
+    "special_defense": 95,
+    "speed": 50,
+    "image": "4bd29ffe-0b40-41d7-a2dd-90180787f198"
+  },
+  {
+    "name": "Electivire",
+    "hp": 75,
+    "attack": 123,
+    "defense": 67,
+    "special_attack": 95,
+    "special_defense": 85,
+    "speed": 95,
+    "image": "4530ca30-d237-49c0-adc8-6891f583a651"
+  },
+  {
+    "name": "Magmortar",
+    "hp": 75,
+    "attack": 95,
+    "defense": 67,
+    "special_attack": 125,
+    "special_defense": 95,
+    "speed": 83,
+    "image": "6b0e42a0-eb7d-42d3-90ce-83286691e13c"
+  },
+  {
+    "name": "Glaceon",
+    "hp": 65,
+    "attack": 60,
+    "defense": 110,
+    "special_attack": 130,
+    "special_defense": 95,
+    "speed": 65,
+    "image": "c0bf71ee-a664-4ffb-beeb-cf1db2016798"
+  },
+  {
+    "name": "Gliscor",
+    "hp": 75,
+    "attack": 95,
+    "defense": 125,
+    "special_attack": 45,
+    "special_defense": 75,
+    "speed": 95,
+    "image": "433f7d79-1b45-418d-96c5-652f4d330e28"
+  },
+  {
+    "name": "Mamoswine",
+    "hp": 110,
+    "attack": 130,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 60,
+    "speed": 80,
+    "image": "075a7b02-532d-4ee7-b7fa-780ed40f4331"
+  },
+  {
+    "name": "Gallade",
+    "hp": 68,
+    "attack": 125,
+    "defense": 65,
+    "special_attack": 65,
+    "special_defense": 115,
+    "speed": 80,
+    "image": "5d7ec7e9-5e97-46ea-bfad-33447ddfd5f2"
+  },
+  {
+    "name": "Dusknoir",
+    "hp": 45,
+    "attack": 100,
+    "defense": 135,
+    "special_attack": 65,
+    "special_defense": 135,
+    "speed": 45,
+    "image": "2fba7654-f5b6-4a48-92ea-bc11018c34fe"
+  },
+  {
+    "name": "Froslass",
+    "hp": 70,
+    "attack": 80,
+    "defense": 70,
+    "special_attack": 80,
+    "special_defense": 70,
+    "speed": 110,
+    "image": "81725356-8db3-43be-b5ed-3daba4a937b4"
+  },
+  {
+    "name": "Azelf",
+    "hp": 75,
+    "attack": 125,
+    "defense": 70,
+    "special_attack": 125,
+    "special_defense": 70,
+    "speed": 115,
+    "image": "6a3818b5-123c-48c0-bddb-95d75a6cd0a8"
+  },
+  {
+    "name": "Dialga",
+    "hp": 100,
+    "attack": 120,
+    "defense": 120,
+    "special_attack": 150,
+    "special_defense": 100,
+    "speed": 90,
+    "image": "e4dbee5f-7ab8-4940-a7b4-e757e55a8ce1"
+  },
+  {
+    "name": "Heatran",
+    "hp": 91,
+    "attack": 90,
+    "defense": 106,
+    "special_attack": 130,
+    "special_defense": 106,
+    "speed": 77,
+    "image": "5b1a7f72-3401-488a-8d34-9e34e5303282"
+  },
+  {
+    "name": "Cresselia",
+    "hp": 120,
+    "attack": 70,
+    "defense": 120,
+    "special_attack": 75,
+    "special_defense": 130,
+    "speed": 85,
+    "image": "771fe088-1cfe-4697-a449-895f12347a6d"
+  },
+  {
+    "name": "Manaphy",
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 100,
+    "image": "c1d413d7-ee8a-4219-9599-2d8e15e20eab"
+  },
+  {
+    "name": "Darkrai",
+    "hp": 70,
+    "attack": 90,
+    "defense": 90,
+    "special_attack": 135,
+    "special_defense": 90,
+    "speed": 125,
+    "image": "ee10637e-9a59-49b3-9296-74dba7550cc6"
+  },
+  {
+    "name": "Arceus",
+    "hp": 120,
+    "attack": 120,
+    "defense": 120,
+    "special_attack": 120,
+    "special_defense": 120,
+    "speed": 120,
+    "image": "29184234-1cfe-44fb-b922-f574484305ab"
+  },
+  {
+    "name": "Emboar",
+    "hp": 110,
+    "attack": 123,
+    "defense": 65,
+    "special_attack": 100,
+    "special_defense": 65,
+    "speed": 65,
+    "image": "8704992d-00fd-46de-8ada-21df873c418a"
+  },
+  {
+    "name": "Dewott",
+    "hp": 75,
+    "attack": 75,
+    "defense": 60,
+    "special_attack": 83,
+    "special_defense": 60,
+    "speed": 60,
+    "image": "e9df70cf-4838-483f-a110-0984788e2a30"
+  },
+  {
+    "name": "Lillipup",
+    "hp": 45,
+    "attack": 60,
+    "defense": 45,
+    "special_attack": 25,
+    "special_defense": 45,
+    "speed": 55,
+    "image": "2b79c632-d3ef-43c3-9d24-0180343c0799"
+  },
+  {
+    "name": "Herdier",
+    "hp": 65,
+    "attack": 80,
+    "defense": 65,
+    "special_attack": 35,
+    "special_defense": 65,
+    "speed": 60,
+    "image": "c32e6fff-3b25-48db-a548-e3a210d9418d"
+  },
+  {
+    "name": "Liepard",
+    "hp": 64,
+    "attack": 88,
+    "defense": 50,
+    "special_attack": 88,
+    "special_defense": 50,
+    "speed": 106,
+    "image": "6309358b-4466-4a26-b29c-7934bc0c878f"
+  },
+  {
+    "name": "Blitzle",
+    "hp": 45,
+    "attack": 60,
+    "defense": 32,
+    "special_attack": 50,
+    "special_defense": 32,
+    "speed": 76,
+    "image": "0c2facfa-4281-4690-9989-e7e25019523b"
+  },
+  {
+    "name": "Boldore",
+    "hp": 70,
+    "attack": 105,
+    "defense": 105,
+    "special_attack": 50,
+    "special_defense": 40,
+    "speed": 20,
+    "image": "41ae6ee1-1a8d-4bcf-96f5-189d942483be"
+  },
+  {
+    "name": "Gigalith",
+    "hp": 85,
+    "attack": 135,
+    "defense": 130,
+    "special_attack": 60,
+    "special_defense": 80,
+    "speed": 25,
+    "image": "e73cf850-afaa-46ab-a47d-0f4c128de48c"
+  },
+  {
+    "name": "Drilbur",
+    "hp": 60,
+    "attack": 85,
+    "defense": 40,
+    "special_attack": 30,
+    "special_defense": 45,
+    "speed": 68,
+    "image": "3750949f-3878-43b3-8552-f5e6537a7477"
+  },
+  {
+    "name": "Excadrill",
+    "hp": 110,
+    "attack": 135,
+    "defense": 60,
+    "special_attack": 50,
+    "special_defense": 65,
+    "speed": 88,
+    "image": "8786399b-6a05-464d-8482-619d0213529f"
+  },
+  {
+    "name": "Audino",
+    "hp": 103,
+    "attack": 60,
+    "defense": 86,
+    "special_attack": 60,
+    "special_defense": 86,
+    "speed": 50,
+    "image": "d829c9dd-7804-48e1-82e9-65cba653e127"
+  },
+  {
+    "name": "Gurdurr",
+    "hp": 85,
+    "attack": 105,
+    "defense": 85,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 40,
+    "image": "81fec046-49a3-4d4b-9d5b-0ff7304d0b1f"
+  },
+  {
+    "name": "Conkeldurr",
+    "hp": 105,
+    "attack": 140,
+    "defense": 95,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 45,
+    "image": "f6d1bf17-34ab-4177-9043-d86aeb24c3cf"
+  },
+  {
+    "name": "Leavanny",
+    "hp": 75,
+    "attack": 103,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 80,
+    "speed": 92,
+    "image": "c440954e-337e-43c1-bcce-5b17ecb7fc33"
+  },
+  {
+    "name": "Cottonee",
+    "hp": 40,
+    "attack": 27,
+    "defense": 60,
+    "special_attack": 37,
+    "special_defense": 50,
+    "speed": 66,
+    "image": "a9a2ea16-affe-4e70-8059-7ab974309287"
+  },
+  {
+    "name": "Lilligant",
+    "hp": 70,
+    "attack": 60,
+    "defense": 75,
+    "special_attack": 110,
+    "special_defense": 75,
+    "speed": 90,
+    "image": "6a982084-3cad-41c2-ab8f-3b363e221e64"
+  },
+  {
+    "name": "Basculin",
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "special_attack": 80,
+    "special_defense": 55,
+    "speed": 98,
+    "image": "09969e94-d586-43da-a42f-d85f27986a11"
+  },
+  {
+    "name": "Krokorok",
+    "hp": 60,
+    "attack": 82,
+    "defense": 45,
+    "special_attack": 45,
+    "special_defense": 45,
+    "speed": 74,
+    "image": "26016572-8461-4d12-86cd-f7d3c4069378"
+  },
+  {
+    "name": "Krookodile",
+    "hp": 95,
+    "attack": 117,
+    "defense": 80,
+    "special_attack": 65,
+    "special_defense": 70,
+    "speed": 92,
+    "image": "9ba68df5-da7b-4c94-8294-5d949fc445cf"
+  },
+  {
+    "name": "Darumaka",
+    "hp": 70,
+    "attack": 90,
+    "defense": 45,
+    "special_attack": 15,
+    "special_defense": 45,
+    "speed": 50,
+    "image": "8516cb44-fa26-41f4-bf08-7da83bb6c922"
+  },
+  {
+    "name": "Darmanitan",
+    "hp": 105,
+    "attack": 140,
+    "defense": 55,
+    "special_attack": 30,
+    "special_defense": 55,
+    "speed": 95,
+    "image": "49caa0fe-dcec-4c81-b34c-1e9a4c739e3d"
+  },
+  {
+    "name": "Maractus",
+    "hp": 75,
+    "attack": 86,
+    "defense": 67,
+    "special_attack": 106,
+    "special_defense": 67,
+    "speed": 60,
+    "image": "3979f67a-f80f-4e27-b7ac-c66f2c9d4a6e"
+  },
+  {
+    "name": "Dwebble",
+    "hp": 50,
+    "attack": 65,
+    "defense": 85,
+    "special_attack": 35,
+    "special_defense": 35,
+    "speed": 55,
+    "image": "939e81dd-bec4-4a0a-a4da-faa61efe4260"
+  },
+  {
+    "name": "Crustle",
+    "hp": 70,
+    "attack": 105,
+    "defense": 125,
+    "special_attack": 65,
+    "special_defense": 75,
+    "speed": 45,
+    "image": "5c81a887-49d7-475e-986b-df728b4c2bc1"
+  },
+  {
+    "name": "Cofagrigus",
+    "hp": 58,
+    "attack": 50,
+    "defense": 145,
+    "special_attack": 95,
+    "special_defense": 105,
+    "speed": 30,
+    "image": "e75364e6-95ff-4d49-ae85-bc1f6bb8a2ec"
+  },
+  {
+    "name": "Carracosta",
+    "hp": 74,
+    "attack": 108,
+    "defense": 133,
+    "special_attack": 83,
+    "special_defense": 65,
+    "speed": 32,
+    "image": "9abe0a96-2a95-49b2-8582-b3b96f2417d5"
+  },
+  {
+    "name": "Archen",
+    "hp": 55,
+    "attack": 112,
+    "defense": 45,
+    "special_attack": 74,
+    "special_defense": 45,
+    "speed": 70,
+    "image": "6fc8fa1a-eea7-4795-8a38-e255538c21e2"
+  },
+  {
+    "name": "Archeops",
+    "hp": 75,
+    "attack": 140,
+    "defense": 65,
+    "special_attack": 112,
+    "special_defense": 65,
+    "speed": 110,
+    "image": "70760b34-ae2e-44cf-8776-38ab4e30b28d"
+  },
+  {
+    "name": "Garbodor",
+    "hp": 80,
+    "attack": 95,
+    "defense": 82,
+    "special_attack": 60,
+    "special_defense": 82,
+    "speed": 75,
+    "image": "a4ea9456-237d-4df5-906e-91509f429d04"
+  },
+  {
+    "name": "Cinccino",
+    "hp": 75,
+    "attack": 95,
+    "defense": 60,
+    "special_attack": 65,
+    "special_defense": 60,
+    "speed": 115,
+    "image": "c4170de3-65fa-40c9-8392-ea147d617634"
+  },
+  {
+    "name": "Gothita",
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 45,
+    "image": "537ff127-29b8-4334-a1b9-21f2d04d80ae"
+  },
+  {
+    "name": "Gothorita",
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "special_attack": 75,
+    "special_defense": 85,
+    "speed": 55,
+    "image": "19bd8cbc-b63f-4c1f-8470-b21bb4e36e5b"
+  },
+  {
+    "name": "Gothitelle",
+    "hp": 70,
+    "attack": 55,
+    "defense": 95,
+    "special_attack": 95,
+    "special_defense": 110,
+    "speed": 65,
+    "image": "2d655eab-0202-4976-9296-4ff5918b3818"
+  },
+  {
+    "name": "Duosion",
+    "hp": 65,
+    "attack": 40,
+    "defense": 50,
+    "special_attack": 125,
+    "special_defense": 60,
+    "speed": 30,
+    "image": "09f1382e-7165-46b2-853f-160ea5e6b7d8"
+  },
+  {
+    "name": "Ducklett",
+    "hp": 62,
+    "attack": 44,
+    "defense": 50,
+    "special_attack": 44,
+    "special_defense": 50,
+    "speed": 55,
+    "image": "06af3ed7-7f83-477a-b9d3-676215c3f441"
+  },
+  {
+    "name": "Deerling",
+    "hp": 60,
+    "attack": 60,
+    "defense": 50,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 75,
+    "image": "cb380767-e733-4d8a-a86d-5cc385cc868b"
+  },
+  {
+    "name": "Emolga",
+    "hp": 55,
+    "attack": 75,
+    "defense": 60,
+    "special_attack": 75,
+    "special_defense": 60,
+    "speed": 103,
+    "image": "4359a22a-ef7c-4593-a2da-0b126e5782a2"
+  },
+  {
+    "name": "Karrablast",
+    "hp": 50,
+    "attack": 75,
+    "defense": 45,
+    "special_attack": 40,
+    "special_defense": 45,
+    "speed": 60,
+    "image": "2c786975-7d50-4a0d-931c-8eba3ded5c25"
+  },
+  {
+    "name": "Escavalier",
+    "hp": 70,
+    "attack": 135,
+    "defense": 105,
+    "special_attack": 60,
+    "special_defense": 105,
+    "speed": 20,
+    "image": "c6956574-3d37-4df8-8da7-60c009b1f985"
+  },
+  {
+    "name": "Foongus",
+    "hp": 69,
+    "attack": 55,
+    "defense": 45,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 15,
+    "image": "0c4f23e2-6b81-4618-b7ed-19853d41e0ba"
+  },
+  {
+    "name": "Amoonguss",
+    "hp": 114,
+    "attack": 85,
+    "defense": 70,
+    "special_attack": 85,
+    "special_defense": 80,
+    "speed": 30,
+    "image": "131b1696-5f2d-45eb-b01b-88ee444a7112"
+  },
+  {
+    "name": "Frillish",
+    "hp": 55,
+    "attack": 40,
+    "defense": 50,
+    "special_attack": 65,
+    "special_defense": 85,
+    "speed": 40,
+    "image": "16ec8dfe-0ba9-43af-b707-b5defad700ed"
+  },
+  {
+    "name": "Jellicent",
+    "hp": 100,
+    "attack": 60,
+    "defense": 70,
+    "special_attack": 85,
+    "special_defense": 105,
+    "speed": 60,
+    "image": "c8bd9285-5e24-43e6-8a6c-5e953c32ca09"
+  },
+  {
+    "name": "Alomomola",
+    "hp": 165,
+    "attack": 75,
+    "defense": 80,
+    "special_attack": 40,
+    "special_defense": 45,
+    "speed": 65,
+    "image": "b167f99b-a5fc-471a-a5ed-4b33d02035d9"
+  },
+  {
+    "name": "Joltik",
+    "hp": 50,
+    "attack": 47,
+    "defense": 50,
+    "special_attack": 57,
+    "special_defense": 50,
+    "speed": 65,
+    "image": "3a4e8a71-2053-46ee-b897-271feeeae4ac"
+  },
+  {
+    "name": "Galvantula",
+    "hp": 70,
+    "attack": 77,
+    "defense": 60,
+    "special_attack": 97,
+    "special_defense": 60,
+    "speed": 108,
+    "image": "f2df105c-89b2-4856-bea8-4090f2ddcc10"
+  },
+  {
+    "name": "Ferroseed",
+    "hp": 44,
+    "attack": 50,
+    "defense": 91,
+    "special_attack": 24,
+    "special_defense": 86,
+    "speed": 10,
+    "image": "958d392d-c1eb-4379-8fbb-4179f84c8028"
+  },
+  {
+    "name": "Ferrothorn",
+    "hp": 74,
+    "attack": 94,
+    "defense": 131,
+    "special_attack": 54,
+    "special_defense": 116,
+    "speed": 20,
+    "image": "4ec2c8b3-6f0a-47bb-ae1e-22257a5b5b58"
+  },
+  {
+    "name": "Klink",
+    "hp": 40,
+    "attack": 55,
+    "defense": 70,
+    "special_attack": 45,
+    "special_defense": 60,
+    "speed": 30,
+    "image": "7d68bf99-aaac-4e25-a7a8-a7bc49843d55"
+  },
+  {
+    "name": "Klang",
+    "hp": 60,
+    "attack": 80,
+    "defense": 95,
+    "special_attack": 70,
+    "special_defense": 85,
+    "speed": 50,
+    "image": "ffc7dc9c-16ce-4198-aff0-7a41c6b5bc83"
+  },
+  {
+    "name": "Klinklang",
+    "hp": 60,
+    "attack": 100,
+    "defense": 115,
+    "special_attack": 70,
+    "special_defense": 85,
+    "speed": 90,
+    "image": "67889e6c-11fd-4e47-9499-ccb10836be54"
+  },
+  {
+    "name": "Eelektrik",
+    "hp": 65,
+    "attack": 85,
+    "defense": 70,
+    "special_attack": 75,
+    "special_defense": 70,
+    "speed": 40,
+    "image": "5e8aeac0-3d33-4f02-8d98-d69ba02a063a"
+  },
+  {
+    "name": "Eelektross",
+    "hp": 85,
+    "attack": 115,
+    "defense": 80,
+    "special_attack": 105,
+    "special_defense": 80,
+    "speed": 50,
+    "image": "34b91470-b996-4001-9dd6-7738678876ae"
+  },
+  {
+    "name": "Elgyem",
+    "hp": 55,
+    "attack": 55,
+    "defense": 55,
+    "special_attack": 85,
+    "special_defense": 55,
+    "speed": 30,
+    "image": "dd144869-6636-400c-9beb-a4e1d9522924"
+  },
+  {
+    "name": "Beheeyem",
+    "hp": 75,
+    "attack": 75,
+    "defense": 75,
+    "special_attack": 125,
+    "special_defense": 95,
+    "speed": 40,
+    "image": "16333eb2-eb11-4961-a45d-899c9ded04f8"
+  },
+  {
+    "name": "Litwick",
+    "hp": 50,
+    "attack": 30,
+    "defense": 55,
+    "special_attack": 65,
+    "special_defense": 55,
+    "speed": 20,
+    "image": "872b3ea9-9d09-4b4c-be21-df84bf67a387"
+  },
+  {
+    "name": "Lampent",
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "special_attack": 95,
+    "special_defense": 60,
+    "speed": 55,
+    "image": "b7446741-4d21-4713-9fdb-20805db96ac8"
+  },
+  {
+    "name": "Chandelure",
+    "hp": 60,
+    "attack": 55,
+    "defense": 90,
+    "special_attack": 145,
+    "special_defense": 90,
+    "speed": 80,
+    "image": "47e9be00-b2a9-4b21-8233-933994cd2d08"
+  },
+  {
+    "name": "Axew",
+    "hp": 46,
+    "attack": 87,
+    "defense": 60,
+    "special_attack": 30,
+    "special_defense": 40,
+    "speed": 57,
+    "image": "4ef1d7a7-8a78-4c12-8b20-49e892799a21"
+  },
+  {
+    "name": "Fraxure",
+    "hp": 66,
+    "attack": 117,
+    "defense": 70,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 67,
+    "image": "dc7a8197-7711-4bae-a17a-2b8e5d13f964"
+  },
+  {
+    "name": "Haxorus",
+    "hp": 76,
+    "attack": 147,
+    "defense": 90,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 97,
+    "image": "eef2947c-779b-4837-802b-cbecb2032368"
+  },
+  {
+    "name": "Cubchoo",
+    "hp": 55,
+    "attack": 70,
+    "defense": 40,
+    "special_attack": 60,
+    "special_defense": 40,
+    "speed": 40,
+    "image": "6f7703d0-68f9-43dc-beee-fb55888fb6f6"
+  },
+  {
+    "name": "Beartic",
+    "hp": 95,
+    "attack": 130,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 80,
+    "speed": 50,
+    "image": "d0b1654f-2ade-4d58-ba15-3498dd9be191"
+  },
+  {
+    "name": "Cryogonal",
+    "hp": 80,
+    "attack": 50,
+    "defense": 50,
+    "special_attack": 95,
+    "special_defense": 135,
+    "speed": 105,
+    "image": "e00ed74e-2675-4349-a570-5c8516d05cf0"
+  },
+  {
+    "name": "Accelgor",
+    "hp": 80,
+    "attack": 70,
+    "defense": 40,
+    "special_attack": 100,
+    "special_defense": 60,
+    "speed": 145,
+    "image": "136daed2-76b3-4200-8be4-1f545044d0f8"
+  },
+  {
+    "name": "Druddigon",
+    "hp": 77,
+    "attack": 120,
+    "defense": 90,
+    "special_attack": 60,
+    "special_defense": 90,
+    "speed": 48,
+    "image": "7f84a318-0a61-4414-8ca2-4dff399b9d5b"
+  },
+  {
+    "name": "Golett",
+    "hp": 59,
+    "attack": 74,
+    "defense": 50,
+    "special_attack": 35,
+    "special_defense": 50,
+    "speed": 35,
+    "image": "b8038b85-6c9c-4e11-850d-37a02d615f6f"
+  },
+  {
+    "name": "Golurk",
+    "hp": 89,
+    "attack": 124,
+    "defense": 80,
+    "special_attack": 55,
+    "special_defense": 80,
+    "speed": 55,
+    "image": "83094c11-37f0-44c9-9c25-051960da8304"
+  },
+  {
+    "name": "Bisharp",
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 70,
+    "image": "d9d0bce4-e636-4683-8f69-e4433809bf2d"
+  },
+  {
+    "name": "Bouffalant",
+    "hp": 95,
+    "attack": 110,
+    "defense": 95,
+    "special_attack": 40,
+    "special_defense": 95,
+    "speed": 55,
+    "image": "1a88e0d8-ec6c-487d-90b0-7d72df994171"
+  },
+  {
+    "name": "Braviary",
+    "hp": 100,
+    "attack": 123,
+    "defense": 75,
+    "special_attack": 57,
+    "special_defense": 75,
+    "speed": 80,
+    "image": "9f804361-69c8-429b-bf8e-097f9715abdf"
+  },
+  {
+    "name": "Mandibuzz",
+    "hp": 110,
+    "attack": 65,
+    "defense": 105,
+    "special_attack": 55,
+    "special_defense": 95,
+    "speed": 80,
+    "image": "f2a860b8-c183-49ae-80f7-670528342d16"
+  },
+  {
+    "name": "Heatmor",
+    "hp": 85,
+    "attack": 97,
+    "defense": 66,
+    "special_attack": 105,
+    "special_defense": 66,
+    "speed": 65,
+    "image": "93531c74-be73-4bc1-9403-bf881af3c285"
+  },
+  {
+    "name": "Durant",
+    "hp": 58,
+    "attack": 109,
+    "defense": 112,
+    "special_attack": 48,
+    "special_defense": 48,
+    "speed": 109,
+    "image": "a87be484-9cb3-4ab7-9382-27522eeb92c1"
+  },
+  {
+    "name": "Deino",
+    "hp": 52,
+    "attack": 65,
+    "defense": 50,
+    "special_attack": 45,
+    "special_defense": 50,
+    "speed": 38,
+    "image": "e02392a8-8343-4f63-85c3-079c02a4c211"
+  },
+  {
+    "name": "Hydreigon",
+    "hp": 92,
+    "attack": 105,
+    "defense": 90,
+    "special_attack": 125,
+    "special_defense": 90,
+    "speed": 98,
+    "image": "0852512d-368e-4616-a805-c16882230c57"
+  },
+  {
+    "name": "Larvesta",
+    "hp": 55,
+    "attack": 85,
+    "defense": 55,
+    "special_attack": 50,
+    "special_defense": 55,
+    "speed": 60,
+    "image": "42924e6e-7f1f-420e-a74c-45cf298f9e36"
+  },
+  {
+    "name": "Cobalion",
+    "hp": 91,
+    "attack": 90,
+    "defense": 129,
+    "special_attack": 90,
+    "special_defense": 72,
+    "speed": 108,
+    "image": "c71d2569-850a-4960-a069-fe7bbfec5c7f"
+  },
+  {
+    "name": "Landorus",
+    "hp": 89,
+    "attack": 125,
+    "defense": 90,
+    "special_attack": 115,
+    "special_defense": 80,
+    "speed": 101,
+    "image": "684dc396-eeb2-4b85-a0b1-226aacb67e07"
+  },
+  {
+    "name": "Kyurem",
+    "hp": 125,
+    "attack": 130,
+    "defense": 90,
+    "special_attack": 130,
+    "special_defense": 90,
+    "speed": 95,
+    "image": "3d195c1e-c2a0-4318-99f6-cafb49fe63be"
+  },
+  {
+    "name": "Keldeo",
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "special_attack": 129,
+    "special_defense": 90,
+    "speed": 108,
+    "image": "3cb4ee94-6979-46fe-bec0-86aa9dc2641a"
+  },
+  {
+    "name": "Genesect",
+    "hp": 71,
+    "attack": 120,
+    "defense": 95,
+    "special_attack": 120,
+    "special_defense": 95,
+    "speed": 99,
+    "image": "8d949c9f-9a23-48fd-a542-908cf5bc3c7d"
+  },
+  {
+    "name": "Chespin",
+    "hp": 56,
+    "attack": 61,
+    "defense": 65,
+    "special_attack": 48,
+    "special_defense": 45,
+    "speed": 38,
+    "image": "0bb9f534-3a70-4dd1-b936-480bab1b6e3b"
+  },
+  {
+    "name": "Chesnaught",
+    "hp": 88,
+    "attack": 107,
+    "defense": 122,
+    "special_attack": 74,
+    "special_defense": 75,
+    "speed": 64,
+    "image": "484708de-b94f-482c-822b-fb08ee72b4d3"
+  },
+  {
+    "name": "Fennekin",
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "special_attack": 62,
+    "special_defense": 60,
+    "speed": 60,
+    "image": "73ad5236-4460-4e9a-89de-9fdd25813b3c"
+  },
+  {
+    "name": "Braixen",
+    "hp": 59,
+    "attack": 59,
+    "defense": 58,
+    "special_attack": 90,
+    "special_defense": 70,
+    "speed": 73,
+    "image": "bec3f683-5a57-4f31-9ee2-24a9e90f3efb"
+  },
+  {
+    "name": "Delphox",
+    "hp": 75,
+    "attack": 69,
+    "defense": 72,
+    "special_attack": 114,
+    "special_defense": 100,
+    "speed": 104,
+    "image": "5ec8e2f8-c920-48f0-ba04-9435b805996e"
+  },
+  {
+    "name": "Froakie",
+    "hp": 41,
+    "attack": 56,
+    "defense": 40,
+    "special_attack": 62,
+    "special_defense": 44,
+    "speed": 71,
+    "image": "51e8ebd8-f5f4-4ef7-ba35-eea7d610f909"
+  },
+  {
+    "name": "Frogadier",
+    "hp": 54,
+    "attack": 63,
+    "defense": 52,
+    "special_attack": 83,
+    "special_defense": 56,
+    "speed": 97,
+    "image": "3741b5bd-ef36-4d7b-a705-279a4676c07d"
+  },
+  {
+    "name": "Greninja",
+    "hp": 72,
+    "attack": 95,
+    "defense": 67,
+    "special_attack": 103,
+    "special_defense": 71,
+    "speed": 122,
+    "image": "ea05943e-1b4a-40ea-a90e-cc7ea4f58140"
+  },
+  {
+    "name": "Bunnelby",
+    "hp": 38,
+    "attack": 36,
+    "defense": 38,
+    "special_attack": 32,
+    "special_defense": 36,
+    "speed": 57,
+    "image": "c424ce88-21c0-459e-a830-456dbf88a077"
+  },
+  {
+    "name": "Diggersby",
+    "hp": 85,
+    "attack": 56,
+    "defense": 77,
+    "special_attack": 50,
+    "special_defense": 77,
+    "speed": 78,
+    "image": "2f50debf-01b9-44fc-af58-5d19ae4985e3"
+  },
+  {
+    "name": "Fletchling",
+    "hp": 45,
+    "attack": 50,
+    "defense": 43,
+    "special_attack": 40,
+    "special_defense": 38,
+    "speed": 62,
+    "image": "bb9c8b1e-585b-4af6-aa0a-cc1fe3121b5c"
+  },
+  {
+    "name": "Fletchinder",
+    "hp": 62,
+    "attack": 73,
+    "defense": 55,
+    "special_attack": 56,
+    "special_defense": 52,
+    "speed": 84,
+    "image": "882a00ff-f1a8-4c63-902c-da6c9dedbecc"
+  },
+  {
+    "name": "Litleo",
+    "hp": 62,
+    "attack": 50,
+    "defense": 58,
+    "special_attack": 73,
+    "special_defense": 54,
+    "speed": 72,
+    "image": "29aa36c2-7b13-417d-8583-2af8f1b4a00f"
+  },
+  {
+    "name": "Floette",
+    "hp": 54,
+    "attack": 45,
+    "defense": 47,
+    "special_attack": 75,
+    "special_defense": 98,
+    "speed": 52,
+    "image": "9e16b9d0-ae03-4bb7-a3f1-32f8bc4cc6bf"
+  },
+  {
+    "name": "Florges",
+    "hp": 78,
+    "attack": 65,
+    "defense": 68,
+    "special_attack": 112,
+    "special_defense": 154,
+    "speed": 75,
+    "image": "302ba384-3e83-4f4c-af91-09700ca62278"
+  },
+  {
+    "name": "Gogoat",
+    "hp": 123,
+    "attack": 100,
+    "defense": 62,
+    "special_attack": 97,
+    "special_defense": 81,
+    "speed": 68,
+    "image": "83ce0d3f-d739-42e4-a26a-f6e8bf78e04e"
+  },
+  {
+    "name": "Furfrou",
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "special_attack": 65,
+    "special_defense": 90,
+    "speed": 102,
+    "image": "7c038590-9721-47cb-b86b-24474fef2265"
+  },
+  {
+    "name": "Espurr",
+    "hp": 62,
+    "attack": 48,
+    "defense": 54,
+    "special_attack": 63,
+    "special_defense": 60,
+    "speed": 68,
+    "image": "90b93829-caa7-4d55-9062-254e1399e523"
+  },
+  {
+    "name": "Honedge",
+    "hp": 45,
+    "attack": 80,
+    "defense": 100,
+    "special_attack": 35,
+    "special_defense": 37,
+    "speed": 28,
+    "image": "75da4e41-2c06-4e59-89c7-f4afec46cc7b"
+  },
+  {
+    "name": "Doublade",
+    "hp": 59,
+    "attack": 110,
+    "defense": 150,
+    "special_attack": 45,
+    "special_defense": 49,
+    "speed": 35,
+    "image": "e8b781d8-81c8-498f-989d-4a8bcd0697f7"
+  },
+  {
+    "name": "Aegislash",
+    "hp": 60,
+    "attack": 50,
+    "defense": 150,
+    "special_attack": 50,
+    "special_defense": 150,
+    "speed": 60,
+    "image": "c93ea6aa-8823-4c96-afa1-cc28630b5dab"
+  },
+  {
+    "name": "Aromatisse",
+    "hp": 101,
+    "attack": 72,
+    "defense": 72,
+    "special_attack": 99,
+    "special_defense": 89,
+    "speed": 29,
+    "image": "f38453dd-a071-4a58-9e35-d663578dd12e"
+  },
+  {
+    "name": "Inkay",
+    "hp": 53,
+    "attack": 54,
+    "defense": 53,
+    "special_attack": 37,
+    "special_defense": 46,
+    "speed": 45,
+    "image": "6f7b34c5-3d97-4a48-a772-43fc1c9b9b6d"
+  },
+  {
+    "name": "Malamar",
+    "hp": 86,
+    "attack": 92,
+    "defense": 88,
+    "special_attack": 68,
+    "special_defense": 75,
+    "speed": 73,
+    "image": "80d3f2c8-44b6-4f08-98f2-fa8627c676de"
+  },
+  {
+    "name": "Binacle",
+    "hp": 42,
+    "attack": 52,
+    "defense": 67,
+    "special_attack": 39,
+    "special_defense": 56,
+    "speed": 50,
+    "image": "2a20c861-6262-486e-9b66-d442b0bebb05"
+  },
+  {
+    "name": "Barbaracle",
+    "hp": 72,
+    "attack": 105,
+    "defense": 115,
+    "special_attack": 54,
+    "special_defense": 86,
+    "speed": 68,
+    "image": "c084c2b5-db26-46f5-a528-0477275c82ef"
+  },
+  {
+    "name": "Dragalge",
+    "hp": 65,
+    "attack": 75,
+    "defense": 90,
+    "special_attack": 97,
+    "special_defense": 123,
+    "speed": 44,
+    "image": "2deb726c-0542-413b-98cc-7a7191602dd6"
+  },
+  {
+    "name": "Clauncher",
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "special_attack": 58,
+    "special_defense": 63,
+    "speed": 44,
+    "image": "15383223-3225-4587-bf28-ab1d4fac17a2"
+  },
+  {
+    "name": "Clawitzer",
+    "hp": 71,
+    "attack": 73,
+    "defense": 88,
+    "special_attack": 120,
+    "special_defense": 89,
+    "speed": 59,
+    "image": "b950a97d-8239-4765-bd2b-d8722b784698"
+  },
+  {
+    "name": "Helioptile",
+    "hp": 44,
+    "attack": 38,
+    "defense": 33,
+    "special_attack": 61,
+    "special_defense": 43,
+    "speed": 70,
+    "image": "af1aa0cc-5496-4061-9507-53f63f16fe4b"
+  },
+  {
+    "name": "Heliolisk",
+    "hp": 62,
+    "attack": 55,
+    "defense": 52,
+    "special_attack": 109,
+    "special_defense": 94,
+    "speed": 109,
+    "image": "55192b86-4205-44f9-a245-2fe145e6bac3"
+  },
+  {
+    "name": "Amaura",
+    "hp": 77,
+    "attack": 59,
+    "defense": 50,
+    "special_attack": 67,
+    "special_defense": 63,
+    "speed": 46,
+    "image": "c7a8ad4d-53c0-4a8d-83e8-28f2d175d191"
+  },
+  {
+    "name": "Aurorus",
+    "hp": 123,
+    "attack": 77,
+    "defense": 72,
+    "special_attack": 99,
+    "special_defense": 92,
+    "speed": 58,
+    "image": "30888f8d-1140-4b81-9a6e-99fabed2f214"
+  },
+  {
+    "name": "Hawlucha",
+    "hp": 78,
+    "attack": 92,
+    "defense": 75,
+    "special_attack": 74,
+    "special_defense": 63,
+    "speed": 118,
+    "image": "13faf42a-b27e-431e-a27e-b8fe66335644"
+  },
+  {
+    "name": "Dedenne",
+    "hp": 67,
+    "attack": 58,
+    "defense": 57,
+    "special_attack": 81,
+    "special_defense": 67,
+    "speed": 101,
+    "image": "61ee0492-3a5a-4c4c-8ae6-31afe2e19c4d"
+  },
+  {
+    "name": "Carbink",
+    "hp": 50,
+    "attack": 50,
+    "defense": 150,
+    "special_attack": 50,
+    "special_defense": 150,
+    "speed": 50,
+    "image": "fca1ad74-1c80-4157-9b8f-0423810af610"
+  },
+  {
+    "name": "Goomy",
+    "hp": 45,
+    "attack": 50,
+    "defense": 35,
+    "special_attack": 55,
+    "special_defense": 75,
+    "speed": 40,
+    "image": "077a1b88-3ebb-4aae-b2fb-529f9e5fd6ac"
+  },
+  {
+    "name": "Goodra",
+    "hp": 90,
+    "attack": 100,
+    "defense": 70,
+    "special_attack": 110,
+    "special_defense": 150,
+    "speed": 80,
+    "image": "dcb29af0-e558-4f37-b249-3f08ed005509"
+  },
+  {
+    "name": "Klefki",
+    "hp": 57,
+    "attack": 80,
+    "defense": 91,
+    "special_attack": 80,
+    "special_defense": 87,
+    "speed": 75,
+    "image": "a96f6da7-5096-4303-864a-840d2f11b45b"
+  },
+  {
+    "name": "Gourgeist",
+    "hp": 85,
+    "attack": 100,
+    "defense": 122,
+    "special_attack": 58,
+    "special_defense": 75,
+    "speed": 54,
+    "image": "dba572b0-d1bc-4035-a41d-a01052f67438"
+  },
+  {
+    "name": "Bergmite",
+    "hp": 55,
+    "attack": 69,
+    "defense": 85,
+    "special_attack": 32,
+    "special_defense": 35,
+    "speed": 28,
+    "image": "b9e2e9a6-aa36-473a-8c92-1459bcf0c073"
+  },
+  {
+    "name": "Avalugg",
+    "hp": 95,
+    "attack": 117,
+    "defense": 184,
+    "special_attack": 44,
+    "special_defense": 46,
+    "speed": 28,
+    "image": "e11b7c75-624c-4ed5-93d7-8dbf35040649"
+  },
+  {
+    "name": "Diancie",
+    "hp": 50,
+    "attack": 100,
+    "defense": 150,
+    "special_attack": 100,
+    "special_defense": 150,
+    "speed": 50,
+    "image": "e199a5bb-4c50-45c8-9339-7f707a9d865e"
+  },
+  {
+    "name": "Hoopa",
+    "hp": 80,
+    "attack": 110,
+    "defense": 60,
+    "special_attack": 150,
+    "special_defense": 130,
+    "speed": 70,
+    "image": "5db5b4f3-7f5f-4b09-a843-ce041fc7c087"
+  },
+  {
+    "name": "Dartrix",
+    "hp": 78,
+    "attack": 75,
+    "defense": 75,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 52,
+    "image": "ff9d30c0-ff5d-49f5-a41d-d937edfe3f8e"
+  },
+  {
+    "name": "Decidueye",
+    "hp": 78,
+    "attack": 107,
+    "defense": 75,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 70,
+    "image": "4148355d-bb8f-476f-a0b1-180a36c7b115"
+  },
+  {
+    "name": "Litten",
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "special_attack": 60,
+    "special_defense": 40,
+    "speed": 70,
+    "image": "189043f3-9ba0-429d-ac1c-4fc31538f930"
+  },
+  {
+    "name": "Incineroar",
+    "hp": 95,
+    "attack": 115,
+    "defense": 90,
+    "special_attack": 80,
+    "special_defense": 90,
+    "speed": 60,
+    "image": "5d43c916-8363-41a6-af52-7d5e0e95f082"
+  },
+  {
+    "name": "Brionne",
+    "hp": 60,
+    "attack": 69,
+    "defense": 69,
+    "special_attack": 91,
+    "special_defense": 81,
+    "speed": 50,
+    "image": "cc3ad65b-615d-4b6f-8ef7-b681819c91b7"
+  },
+  {
+    "name": "Gumshoos",
+    "hp": 88,
+    "attack": 110,
+    "defense": 60,
+    "special_attack": 55,
+    "special_defense": 60,
+    "speed": 45,
+    "image": "f5f244bd-f6e2-477e-9812-0bbd3c40e8e4"
+  },
+  {
+    "name": "Grubbin",
+    "hp": 47,
+    "attack": 62,
+    "defense": 45,
+    "special_attack": 55,
+    "special_defense": 45,
+    "speed": 46,
+    "image": "79f90844-6af7-45bd-ba22-6c1ea5c0c83b"
+  },
+  {
+    "name": "Charjabug",
+    "hp": 57,
+    "attack": 82,
+    "defense": 95,
+    "special_attack": 55,
+    "special_defense": 75,
+    "speed": 36,
+    "image": "c07ec85f-b709-4b8b-b880-83a07c295459"
+  },
+  {
+    "name": "Crabrawler",
+    "hp": 47,
+    "attack": 82,
+    "defense": 57,
+    "special_attack": 42,
+    "special_defense": 47,
+    "speed": 63,
+    "image": "23bcb417-8669-4b4a-89f6-9b09445d5417"
+  },
+  {
+    "name": "Crabominable",
+    "hp": 97,
+    "attack": 132,
+    "defense": 77,
+    "special_attack": 62,
+    "special_defense": 67,
+    "speed": 43,
+    "image": "b94928fc-fec0-4099-b3f8-ec46e04720c0"
+  },
+  {
+    "name": "Cutiefly",
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "special_attack": 55,
+    "special_defense": 40,
+    "speed": 84,
+    "image": "f51fa083-79b2-4f0e-ae7e-bc08aa088ee5"
+  },
+  {
+    "name": "Mareanie",
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "special_attack": 43,
+    "special_defense": 52,
+    "speed": 45,
+    "image": "48a36028-df75-46d8-8a19-4ebb14e83fbf"
+  },
+  {
+    "name": "Dewpider",
+    "hp": 38,
+    "attack": 40,
+    "defense": 52,
+    "special_attack": 40,
+    "special_defense": 72,
+    "speed": 27,
+    "image": "33dbed0d-2113-403f-8eb4-6c046c6fffb5"
+  },
+  {
+    "name": "Araquanid",
+    "hp": 68,
+    "attack": 70,
+    "defense": 92,
+    "special_attack": 50,
+    "special_defense": 132,
+    "speed": 42,
+    "image": "b0007be5-1f1a-4c7a-9567-bc7ef0cc1ea5"
+  },
+  {
+    "name": "Fomantis",
+    "hp": 40,
+    "attack": 55,
+    "defense": 35,
+    "special_attack": 50,
+    "special_defense": 35,
+    "speed": 35,
+    "image": "afbcd852-664a-496f-9a6c-6fb486c11e06"
+  },
+  {
+    "name": "Lurantis",
+    "hp": 70,
+    "attack": 105,
+    "defense": 90,
+    "special_attack": 80,
+    "special_defense": 90,
+    "speed": 45,
+    "image": "ed2eaa47-4859-4d42-820c-b08acdac37d7"
+  },
+  {
+    "name": "Bewear",
+    "hp": 120,
+    "attack": 125,
+    "defense": 80,
+    "special_attack": 55,
+    "special_defense": 60,
+    "speed": 60,
+    "image": "4325e649-88ee-406a-878d-b8a9d1916025"
+  },
+  {
+    "name": "Bounsweet",
+    "hp": 42,
+    "attack": 30,
+    "defense": 38,
+    "special_attack": 30,
+    "special_defense": 38,
+    "speed": 32,
+    "image": "f5ac9912-df4b-4ff8-a63f-02a14f2668b5"
+  },
+  {
+    "name": "Comfey",
+    "hp": 51,
+    "attack": 52,
+    "defense": 90,
+    "special_attack": 82,
+    "special_defense": 110,
+    "speed": 100,
+    "image": "2966049f-10fd-4c40-9e58-557ec66d6d3b"
+  },
+  {
+    "name": "Golisopod",
+    "hp": 75,
+    "attack": 125,
+    "defense": 140,
+    "special_attack": 60,
+    "special_defense": 90,
+    "speed": 40,
+    "image": "940ae67a-5009-42b0-a806-bd7fbd92fde9"
+  },
+  {
+    "name": "Bruxish",
+    "hp": 68,
+    "attack": 105,
+    "defense": 70,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 92,
+    "image": "86904c9a-9ac2-42d8-b8fc-620b4a1c980b"
+  },
+  {
+    "name": "Drampa",
+    "hp": 78,
+    "attack": 60,
+    "defense": 85,
+    "special_attack": 135,
+    "special_defense": 91,
+    "speed": 36,
+    "image": "0da417d3-d161-424c-b958-841a4339a9c7"
+  },
+  {
+    "name": "Dhelmise",
+    "hp": 70,
+    "attack": 131,
+    "defense": 100,
+    "special_attack": 86,
+    "special_defense": 90,
+    "speed": 40,
+    "image": "72826d6f-4705-4e06-9811-fcac0fba22c6"
+  },
+  {
+    "name": "Cosmog",
+    "hp": 43,
+    "attack": 29,
+    "defense": 31,
+    "special_attack": 29,
+    "special_defense": 31,
+    "speed": 37,
+    "image": "7972568f-db60-411c-805b-d220c0ce55a2"
+  },
+  {
+    "name": "Cosmoem",
+    "hp": 43,
+    "attack": 29,
+    "defense": 131,
+    "special_attack": 29,
+    "special_defense": 131,
+    "speed": 37,
+    "image": "5c05cbdc-38a0-48e5-ad28-c4092402eee5"
+  },
+  {
+    "name": "Lunala",
+    "hp": 137,
+    "attack": 113,
+    "defense": 89,
+    "special_attack": 137,
+    "special_defense": 107,
+    "speed": 97,
+    "image": "48ff45bb-3012-46fe-b0e7-f6922bf6e411"
+  },
+  {
+    "name": "Buzzwole",
+    "hp": 107,
+    "attack": 139,
+    "defense": 139,
+    "special_attack": 53,
+    "special_defense": 53,
+    "speed": 79,
+    "image": "be63b722-12eb-43e4-ba28-4ca367681ef2"
+  },
+  {
+    "name": "Celesteela",
+    "hp": 97,
+    "attack": 101,
+    "defense": 103,
+    "special_attack": 107,
+    "special_defense": 101,
+    "speed": 61,
+    "image": "5ff90a39-de11-4b95-9e6e-4fd126e05869"
+  },
+  {
+    "name": "Kartana",
+    "hp": 59,
+    "attack": 181,
+    "defense": 131,
+    "special_attack": 59,
+    "special_defense": 31,
+    "speed": 109,
+    "image": "d893523b-fff8-48ef-ad35-fc18323539d9"
+  },
+  {
+    "name": "Guzzlord",
+    "hp": 223,
+    "attack": 101,
+    "defense": 53,
+    "special_attack": 97,
+    "special_defense": 53,
+    "speed": 43,
+    "image": "5575a816-ea7a-491b-86d2-a3d68cd0c4ab"
+  },
+  {
+    "name": "Magearna",
+    "hp": 80,
+    "attack": 95,
+    "defense": 115,
+    "special_attack": 130,
+    "special_defense": 115,
+    "speed": 65,
+    "image": "d27c5a1f-b620-4641-9602-b7d779f796ae"
+  },
+  {
+    "name": "Marshadow",
+    "hp": 90,
+    "attack": 125,
+    "defense": 80,
+    "special_attack": 90,
+    "special_defense": 90,
+    "speed": 125,
+    "image": "cc490b54-fabf-48a4-86f5-1ce1c3cb7773"
+  },
+  {
+    "name": "Blacephalon",
+    "hp": 53,
+    "attack": 127,
+    "defense": 53,
+    "special_attack": 151,
+    "special_defense": 79,
+    "speed": 107,
+    "image": "88468920-8bb0-4208-83bc-d549b042d47c"
+  }
+]

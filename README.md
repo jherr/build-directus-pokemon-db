@@ -76,6 +76,8 @@ This will take the existing `pokemon.json` file and add the image IDs to it and 
 
 # Create another user with read-only permissions
 
+If you are just playing around with stuff locally you can use the admin key. But if you want to share the code around you should create a user that has read-only permissions so that your data won't be corrupted (or worse). To make a read-only user follow the instructions below:
+
 * Click on the `Users` icon on the left sidebar
 * Click on the `+` button to create a new user
 * Specify a name and email for the user
